@@ -1,0 +1,11 @@
+number,name,hundo_cp,hundo_wp_cp,weather0,weather1,raid_tier,type0,type1,shiny_enable
+587,Emolga,933,1166,Rainy,Windy,1,Electric,Flying,true
+702,Dedenne,1051,1315,Rainy,Cloudy,1,Electric,Fairy,true
+835,Yamper,450,562,Rainy,,1,Electric,,false
+921,Pawmi,363,454,Rainy,,1,Electric,,true
+26,Raichu,1247,1558,Rainy,,3,Electric,,true
+26,Alolan Raichu,1306,1633,Rainy,Windy,3,Electric,Psychic,true
+184,Azumarill,907,1134,Rainy,Cloudy,3,Water,Fairy,true
+895,Regidrago,1699,2124,Windy,,5,Dragon,,true
+310,Mega Manectric,1337,1672,Rainy,,Mega,Electric,,true
+381,Shadow Latios,2178,2723,Windy,,5,Dragon,Psychic,true
