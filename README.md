@@ -8,7 +8,7 @@ Should now be stable enough and not crash anymore for invalid Pokemon numbers. I
 
 ## Todo
 
-1. Most Urgent: finish populating the data csv. Currently only has a small dataset of Pokemon that were in rotation in early April for testing purposes.
+1. Most urgent: finish populating the data csv. Currently only has a small dataset of Pokemon that were in rotation in early April for testing purposes.
 2. Tidy up print statements for easier reading
 3. Would be nice to develop into a Discord bot or similar for ease of access.
 4. Implement stdin args to be passed in and stout for pipes (main loop will need rework/alt flow)
