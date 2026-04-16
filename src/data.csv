@@ -9,3 +9,4 @@ number,name,form,hundo_cp,hundo_wb_cp,weather0,weather1,raid_tier,type0,type1,sh
 895,Regidrago,normal,1699,2124,Windy,,5,Dragon,,true
 310,Manectric,Mega,1337,1672,Rainy,,Mega,Electric,,true
 381,Latios,Shadow,2178,2723,Windy,,5,Dragon,Psychic,true
+000,Missingno,normal,0,0,?????,?????,0,Flying,Normal,false
