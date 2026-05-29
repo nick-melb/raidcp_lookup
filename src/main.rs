@@ -22,10 +22,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     //  import data.csv and compile in, maybe compress later when database increases
     let csv_data = include_str!("data.csv");
 
-    println!("Pokemon Go Raid Hundo CP Lookup Tool");
-    println!(
-        "Enter Pokemon's Name or Dex Number (partial anme matches are accepted)\n type 'quit' or 'exit' or hold CTRL-C at anyime to quit"
-    );
+    println!("Pokemon Go Raid Hundo CP Lookup Tool\nEnter Pokemon's Name or Dex Number (partial anme matches are accepted)\n type 'exit' or ':q' or hold CTRL-C at anytime to quit");
 
     loop {
         print!("\nSearch: ");

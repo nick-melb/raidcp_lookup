@@ -1,12 +1,1282 @@
 number,name,form,hundo_cp,hundo_wb_cp,weather0,weather1,raid_tier,type0,type1,shiny_enable
+1,Bulbasaur,normal,637,796,Sunny/Clear,Cloudy,1,Grass,Poison,true
+2,Ivysaur,normal,970,1213,Sunny/Clear,Cloudy,1,Grass,Poison,true
+3,Venusaur,normal,1554,1943,Sunny/Clear,Cloudy,1,Grass,Poison,true
+4,Charmander,normal,560,700,Sunny/Clear,None,1,Fire,None,true
+5,Charmeleon,normal,944,1180,Sunny/Clear,None,1,Fire,None,true
+6,Charizard,normal,1651,2064,Sunny/Clear,Windy,1,Fire,Flying,true
+7,Squirtle,normal,540,675,Rainy,None,1,Water,None,true
+8,Wartortle,normal,850,1063,Rainy,None,1,Water,None,true
+9,Blastoise,normal,1409,1761,Rainy,None,1,Water,None,true
+10,Caterpie,normal,249,312,Rainy,None,1,Bug,None,true
+11,Metapod,normal,257,321,Rainy,None,1,Bug,None,true
+12,Butterfree,normal,1044,1305,Rainy,Windy,1,Bug,Flying,true
+13,Weedle,normal,260,325,Rainy,Cloudy,1,Bug,Poison,true
+14,Kakuna,normal,246,308,Rainy,Cloudy,1,Bug,Poison,true
+15,Beedrill,normal,1054,1318,Rainy,Cloudy,1,Bug,Poison,true
+16,Pidgey,normal,388,486,Partly Cloudy,Windy,1,Normal,Flying,true
+17,Pidgeotto,normal,682,853,Partly Cloudy,Windy,1,Normal,Flying,true
+18,Pidgeot,normal,1216,1521,Partly Cloudy,Windy,1,Normal,Flying,true
+19,Rattata,normal,419,524,Partly Cloudy,None,1,Normal,None,true
+20,Raticate,normal,989,1236,Partly Cloudy,None,1,Normal,None,true
+21,Spearow,normal,456,570,Partly Cloudy,Windy,1,Normal,Flying,true
+22,Fearow,normal,1141,1426,Partly Cloudy,Windy,1,Normal,Flying,true
+23,Ekans,normal,529,662,Cloudy,None,1,Poison,None,true
+24,Arbok,normal,1206,1507,Cloudy,None,1,Poison,None,true
+25,Pikachu,normal,536,670,Rainy,None,1,Electric,None,true
+26,Raichu,normal,1247,1558,Rainy,None,1,Electric,None,true
+27,Sandshrew,normal,720,901,Sunny/Clear,None,1,Ground,None,true
+28,Sandslash,normal,1356,1696,Sunny/Clear,None,1,Ground,None,true
+29,Nidoran,f,466,583,Cloudy,None,1,Poison,None,true
+30,Nidorina,normal,748,935,Cloudy,None,1,Poison,None,true
+31,Nidoqueen,normal,1421,1777,Cloudy,Sunny/Clear,1,Poison,Ground,true
+32,Nidoran,m,491,614,Cloudy,None,1,Poison,None,true
+33,Nidorino,normal,796,995,Cloudy,None,1,Poison,None,true
+34,Nidoking,normal,1466,1833,Cloudy,Sunny/Clear,1,Poison,Ground,true
+35,Clefairy,normal,660,825,Cloudy,None,1,Fairy,None,true
+36,Clefable,normal,1392,1741,Cloudy,None,1,Fairy,None,true
+37,Vulpix,normal,504,631,Sunny/Clear,None,1,Fire,None,true
+38,Ninetales,normal,1302,1628,Sunny/Clear,None,1,Fire,None,true
+39,Jigglypuff,normal,413,517,Partly Cloudy,Cloudy,1,Normal,Fairy,true
+40,Wigglytuff,normal,1101,1376,Partly Cloudy,Cloudy,1,Normal,Fairy,true
+41,Zubat,normal,381,476,Cloudy,Windy,1,Poison,Flying,true
+42,Golbat,normal,1129,1412,Cloudy,Windy,1,Poison,Flying,true
+43,Oddish,normal,702,877,Sunny/Clear,Cloudy,1,Grass,Poison,true
+44,Gloom,normal,960,1200,Sunny/Clear,Cloudy,1,Grass,Poison,true
+45,Vileplume,normal,1462,1828,Sunny/Clear,Cloudy,1,Grass,Poison,true
+46,Paras,normal,581,727,Rainy,Sunny/Clear,1,Bug,Grass,true
+47,Parasect,normal,1062,1328,Rainy,Sunny/Clear,1,Bug,Grass,true
+48,Venonat,normal,573,717,Rainy,Cloudy,1,Bug,Poison,true
+49,Venomoth,normal,1190,1487,Rainy,Cloudy,1,Bug,Poison,true
+50,Diglett,normal,386,483,Sunny/Clear,None,1,Ground,None,true
+51,Dugtrio,normal,1082,1353,Sunny/Clear,None,1,Ground,None,true
+52,Meowth,normal,427,534,Partly Cloudy,None,1,Normal,None,true
+53,Persian,normal,965,1206,Partly Cloudy,None,1,Normal,None,true
+54,Psyduck,normal,632,790,Rainy,None,1,Water,None,true
+55,Golduck,normal,1400,1750,Rainy,None,1,Water,None,true
+56,Mankey,normal,665,832,Cloudy,None,1,Fighting,None,true
+57,Primeape,normal,1307,1634,Cloudy,None,1,Fighting,None,true
+58,Growlithe,normal,710,888,Sunny/Clear,None,1,Fire,None,true
+59,Arcanine,normal,1731,2164,Sunny/Clear,None,1,Fire,None,true
+60,Poliwag,normal,473,592,Rainy,None,1,Water,None,true
+61,Poliwhirl,normal,811,1013,Rainy,None,1,Water,None,true
+62,Poliwrath,normal,1477,1847,Rainy,Cloudy,1,Water,Fighting,true
+63,Abra,normal,767,958,Windy,None,1,Psychic,None,true
+64,Kadabra,normal,1176,1471,Windy,None,1,Psychic,None,true
+65,Alakazam,normal,1747,2184,Windy,None,1,Psychic,None,true
+66,Machop,normal,730,913,Cloudy,None,1,Fighting,None,true
+67,Machoke,normal,1160,1451,Cloudy,None,1,Fighting,None,true
+68,Machamp,normal,1746,2183,Cloudy,None,1,Fighting,None,true
+69,Bellsprout,normal,590,738,Sunny/Clear,Cloudy,1,Grass,Poison,true
+70,Weepinbell,normal,921,1151,Sunny/Clear,Cloudy,1,Grass,Poison,true
+71,Victreebel,normal,1389,1736,Sunny/Clear,Cloudy,1,Grass,Poison,true
+72,Tentacool,normal,594,743,Rainy,Cloudy,1,Water,Poison,true
+73,Tentacruel,normal,1384,1730,Rainy,Cloudy,1,Water,Poison,true
+74,Geodude,normal,739,923,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+75,Graveler,normal,1084,1355,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+76,Golem,normal,1685,2106,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+77,Ponyta,normal,969,1212,Sunny/Clear,None,1,Fire,None,true
+78,Rapidash,normal,1406,1757,Sunny/Clear,None,1,Fire,None,true
+79,Slowpoke,normal,700,876,Rainy,Windy,1,Water,Psychic,true
+80,Slowbro,normal,1454,1817,Rainy,Windy,1,Water,Psychic,true
+81,Magnemite,normal,778,973,Rainy,Snow,1,Electric,Steel,true
+82,Magneton,normal,1420,1775,Rainy,Snow,1,Electric,Steel,true
+83,Farfetchd,normal,924,1156,Partly Cloudy,Windy,1,Normal,Flying,true
+84,Doduo,normal,686,857,Partly Cloudy,Windy,1,Normal,Flying,true
+85,Dodrio,normal,1387,1734,Partly Cloudy,Windy,1,Normal,Flying,true
+86,Seel,normal,555,694,Rainy,None,1,Water,None,true
+87,Dewgong,normal,1134,1418,Rainy,Snow,1,Water,Ice,true
+88,Grimer,normal,785,981,Cloudy,None,1,Poison,None,true
+89,Muk,normal,1575,1969,Cloudy,None,1,Poison,None,true
+90,Shellder,normal,617,771,Rainy,None,1,Water,None,true
+91,Cloyster,normal,1455,1819,Rainy,Snow,1,Water,Ice,true
+92,Gastly,normal,702,878,Fog,Cloudy,1,Ghost,Poison,true
+93,Haunter,normal,1121,1402,Fog,Cloudy,1,Ghost,Poison,true
+94,Gengar,normal,1644,2055,Fog,Cloudy,1,Ghost,Poison,true
+95,Onix,normal,629,787,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+96,Drowzee,normal,594,743,Windy,None,1,Psychic,None,true
+97,Hypno,normal,1194,1493,Windy,None,1,Psychic,None,true
+98,Krabby,normal,892,1115,Rainy,None,1,Water,None,true
+99,Kingler,normal,1616,2020,Rainy,None,1,Water,None,true
+100,Voltorb,normal,577,721,Rainy,None,1,Electric,None,true
+101,Electrode,normal,1228,1535,Rainy,None,1,Electric,None,true
+102,Exeggcute,normal,671,839,Sunny/Clear,Windy,1,Grass,Psychic,true
+103,Exeggutor,normal,1759,2198,Sunny/Clear,Windy,1,Grass,Psychic,true
+104,Cubone,normal,582,728,Sunny/Clear,None,1,Ground,None,true
+105,Marowak,normal,1048,1311,Sunny/Clear,None,1,Ground,None,true
+106,Hitmonlee,normal,1472,1840,Cloudy,None,1,Fighting,None,true
+107,Hitmonchan,normal,1332,1665,Cloudy,None,1,Fighting,None,true
+108,Lickitung,normal,806,1008,Partly Cloudy,None,1,Normal,None,true
+109,Koffing,normal,694,867,Cloudy,None,1,Poison,None,true
+110,Weezing,normal,1310,1637,Cloudy,None,1,Poison,None,true
+111,Rhyhorn,normal,943,1179,Sunny/Clear,Partly Cloudy,1,Ground,Rock,true
+112,Rhydon,normal,1816,2270,Sunny/Clear,Partly Cloudy,1,Ground,Rock,true
+113,Chansey,normal,717,896,Partly Cloudy,None,1,Normal,None,true
+114,Tangela,normal,1278,1598,Sunny/Clear,None,1,Grass,None,true
+115,Kangaskhan,normal,1477,1847,Partly Cloudy,None,1,Normal,None,true
+116,Horsea,normal,603,754,Rainy,None,1,Water,None,true
+117,Seadra,normal,1196,1495,Rainy,None,1,Water,None,true
+118,Goldeen,normal,658,823,Rainy,None,1,Water,None,true
+119,Seaking,normal,1235,1544,Rainy,None,1,Water,None,true
+122,Mr,mime,1273,1591,Windy,Cloudy,1,Psychic,Fairy,true
+123,Scyther,normal,1546,1933,Rainy,Windy,1,Bug,Flying,true
+124,Jynx,normal,1460,1825,Snow,Windy,1,Ice,Psychic,true
+125,Electabuzz,normal,1333,1667,Rainy,None,1,Electric,None,true
+126,Magmar,normal,1367,1710,Sunny/Clear,None,1,Fire,None,true
+127,Pinsir,normal,1690,2113,Rainy,None,1,Bug,None,true
+128,Tauros,normal,1497,1872,Partly Cloudy,None,1,Normal,None,true
+129,Magikarp,normal,157,196,Rainy,None,1,Water,None,true
+130,Gyarados,normal,1937,2422,Rainy,Windy,5,Water,Flying,true
+131,Lapras,normal,1509,1886,Rainy,Snow,1,Water,Ice,true
+132,Ditto,normal,475,594,Partly Cloudy,None,1,Normal,None,true
+133,Eevee,normal,612,765,Partly Cloudy,None,1,Normal,None,true
+134,Vaporeon,normal,1779,2225,Rainy,None,1,Water,None,true
+135,Jolteon,normal,1650,2063,Rainy,None,1,Electric,None,true
+136,Flareon,normal,1730,2163,Sunny/Clear,None,1,Fire,None,true
+137,Porygon,normal,982,1228,Partly Cloudy,None,1,Normal,None,true
+138,Omanyte,normal,882,1103,Partly Cloudy,Rainy,1,Rock,Water,true
+140,Kabuto,normal,783,979,Partly Cloudy,Rainy,1,Rock,Water,true
+141,Kabutops,normal,1550,1938,Partly Cloudy,Rainy,1,Rock,Water,true
+142,Aerodactyl,normal,1590,1988,Partly Cloudy,Windy,1,Rock,Flying,true
+143,Snorlax,normal,1843,2304,Partly Cloudy,None,5,Normal,None,true
+144,Articuno,normal,1743,2179,Snow,Windy,1,Ice,Flying,true
+145,Zapdos,normal,2015,2519,Rainy,Windy,5,Electric,Flying,true
+146,Moltres,normal,1980,2475,Sunny/Clear,Windy,5,Fire,Flying,true
+147,Dratini,normal,574,717,Windy,None,1,Dragon,None,true
+148,Dragonair,normal,1017,1271,Windy,None,1,Dragon,None,true
+149,Dragonite,normal,2167,2709,Windy,None,5,Dragon,Flying,true
+150,Mewtwo,normal,2387,2984,Windy,None,5,Psychic,None,true
+151,Mew,normal,1865,2332,Windy,None,5,Psychic,None,true
+152,Chikorita,normal,534,668,Sunny/Clear,None,1,Grass,None,true
+153,Bayleef,normal,831,1039,Sunny/Clear,None,1,Grass,None,true
+154,Meganium,normal,1377,1721,Sunny/Clear,None,1,Grass,None,true
+155,Cyndaquil,normal,560,700,Sunny/Clear,None,1,Fire,None,true
+156,Quilava,normal,944,1180,Sunny/Clear,None,1,Fire,None,true
+157,Typhlosion,normal,1651,2064,Sunny/Clear,None,1,Fire,None,true
+158,Totodile,normal,646,808,Rainy,None,1,Water,None,true
+159,Croconaw,normal,984,1230,Rainy,None,1,Water,None,true
+160,Feraligatr,normal,1632,2040,Rainy,None,1,Water,None,true
+161,Sentret,normal,353,441,Partly Cloudy,None,1,Normal,None,true
+162,Furret,normal,1004,1255,Partly Cloudy,None,1,Normal,None,true
+163,Hoothoot,normal,387,484,Partly Cloudy,Windy,1,Normal,Flying,true
+164,Noctowl,normal,1272,1590,Partly Cloudy,Windy,1,Normal,Flying,true
+165,Ledyba,normal,416,520,Rainy,Windy,1,Bug,Flying,true
+166,Ledian,normal,769,961,Rainy,Windy,1,Bug,Flying,true
+167,Spinarak,normal,466,583,Rainy,Cloudy,1,Bug,Poison,true
+168,Ariados,normal,1034,1292,Rainy,Cloudy,1,Bug,Poison,true
+169,Crobat,normal,1512,1890,Cloudy,Windy,1,Poison,Flying,true
+170,Chinchou,normal,639,799,Rainy,None,1,Water,Electric,true
+171,Lanturn,normal,1191,1489,Rainy,None,1,Water,Electric,true
+172,Pichu,normal,270,338,Rainy,None,1,Electric,None,true
+173,Cleffa,normal,383,479,Cloudy,None,1,Fairy,None,true
+174,Igglybuff,normal,306,382,Partly Cloudy,Cloudy,1,Normal,Fairy,true
+175,Togepi,normal,375,470,Cloudy,None,1,Fairy,None,true
+176,Togetic,normal,982,1228,Cloudy,Windy,1,Fairy,Flying,true
+177,Natu,normal,630,787,Windy,None,1,Psychic,Flying,true
+178,Xatu,normal,1250,1563,Windy,None,1,Psychic,Flying,true
+179,Mareep,normal,566,708,Rainy,None,1,Electric,None,true
+180,Flaaffy,normal,869,1086,Rainy,None,1,Electric,None,true
+181,Ampharos,normal,1630,2037,Rainy,None,1,Electric,None,true
+182,Bellossom,normal,1303,1629,Sunny/Clear,None,1,Grass,None,true
+183,Marill,normal,263,329,Rainy,Cloudy,1,Water,Fairy,true
+184,Azumarill,normal,907,1134,Rainy,Cloudy,1,Water,Fairy,true
+185,Sudowoodo,normal,1227,1534,Partly Cloudy,None,1,Rock,None,true
+186,Politoed,normal,1399,1749,Rainy,None,1,Water,None,true
+187,Hoppip,normal,342,428,Sunny/Clear,Windy,1,Grass,Flying,true
+188,Skiploom,normal,557,697,Sunny/Clear,Windy,1,Grass,Flying,true
+189,Jumpluff,normal,935,1168,Sunny/Clear,Windy,1,Grass,Flying,true
+190,Aipom,normal,770,963,Partly Cloudy,None,1,Normal,None,true
+191,Sunkern,normal,226,282,Sunny/Clear,None,1,Grass,None,true
+192,Sunflora,normal,1223,1529,Sunny/Clear,None,1,Grass,None,true
+193,Yanma,normal,840,1050,Rainy,Windy,1,Bug,Flying,true
+194,Wooper,normal,366,458,Rainy,Sunny/Clear,1,Water,Ground,true
+195,Quagsire,normal,1138,1423,Rainy,Sunny/Clear,1,Water,Ground,true
+196,Espeon,normal,1811,2264,Windy,None,1,Psychic,None,true
+197,Umbreon,normal,1221,1526,Fog,None,1,Dark,None,true
+198,Murkrow,normal,892,1116,Fog,Windy,1,Dark,Flying,true
+199,Slowking,normal,1454,1817,Rainy,Windy,1,Water,Psychic,true
+200,Misdreavus,normal,1100,1376,Fog,None,1,Ghost,None,true
+201,Unown,normal,677,846,Windy,None,1,Psychic,None,true
+202,Wobbuffet,normal,586,733,Windy,None,1,Psychic,None,true
+203,Girafarig,normal,1169,1462,Partly Cloudy,Windy,1,Normal,Psychic,true
+204,Pineco,normal,633,791,Rainy,None,1,Bug,None,true
+205,Forretress,normal,1304,1630,Rainy,Snow,1,Bug,Steel,true
+206,Dunsparce,normal,965,1206,Partly Cloudy,None,1,Normal,None,true
+207,Gligar,normal,1061,1326,Sunny/Clear,Windy,1,Ground,Flying,true
+208,Steelix,normal,1379,1724,Snow,Sunny/Clear,1,Steel,Ground,true
+209,Snubbull,normal,707,884,Cloudy,None,1,Fairy,None,true
+210,Granbull,normal,1458,1823,Cloudy,None,1,Fairy,None,true
+211,Qwilfish,normal,1220,1526,Rainy,Cloudy,1,Water,Poison,true
+212,Scizor,normal,1714,2143,Rainy,Snow,1,Bug,Steel,true
+213,Shuckle,normal,231,289,Rainy,Partly Cloudy,1,Bug,Rock,true
+214,Heracross,normal,1772,2215,Rainy,Cloudy,1,Bug,Fighting,true
+215,Sneasel,normal,1172,1465,Fog,Snow,1,Dark,Ice,true
+216,Teddiursa,normal,759,949,Partly Cloudy,None,1,Normal,None,true
+217,Ursaring,normal,1682,2103,Partly Cloudy,None,1,Normal,None,true
+218,Slugma,normal,511,639,Sunny/Clear,None,1,Fire,None,true
+219,Magcargo,normal,1135,1419,Sunny/Clear,Partly Cloudy,1,Fire,Rock,true
+220,Swinub,normal,423,529,Snow,Sunny/Clear,1,Ice,Ground,true
+221,Piloswine,normal,1340,1675,Snow,Sunny/Clear,1,Ice,Ground,true
+222,Corsola,normal,872,1091,Rainy,Partly Cloudy,1,Water,Rock,true
+223,Remoraid,normal,521,651,Rainy,None,1,Water,None,true
+224,Octillery,normal,1322,1653,Rainy,None,1,Water,None,true
+225,Delibird,normal,625,781,Snow,Windy,1,Ice,Flying,true
+226,Mantine,normal,1326,1657,Rainy,Windy,1,Water,Flying,true
+227,Skarmory,normal,1212,1515,Snow,Windy,1,Steel,Flying,true
+228,Houndour,normal,705,881,Fog,Sunny/Clear,1,Dark,Fire,true
+229,Houndoom,normal,1505,1882,Fog,Sunny/Clear,1,Dark,Fire,true
+230,Kingdra,normal,1509,1887,Rainy,Windy,1,Water,Dragon,true
+231,Phanpy,normal,689,862,Sunny/Clear,None,1,Ground,None,true
+232,Donphan,normal,1722,2152,Sunny/Clear,None,1,Ground,None,true
+233,Porygon2,normal,1549,1936,Partly Cloudy,None,1,Normal,None,true
+234,Stantler,normal,1236,1546,Partly Cloudy,None,1,Normal,None,true
+235,Smeargle,normal,246,308,Partly Cloudy,None,1,Normal,None,true
+236,Tyrogue,normal,281,351,Cloudy,None,1,Fighting,None,true
+237,Hitmontop,normal,1232,1540,Cloudy,None,1,Fighting,None,true
+238,Smoochum,normal,738,922,Snow,Windy,1,Ice,Psychic,true
+239,Elekid,normal,689,861,Rainy,None,1,Electric,None,true
+240,Magby,normal,756,945,Sunny/Clear,None,1,Fire,None,true
+241,Miltank,normal,1353,1691,Partly Cloudy,None,1,Normal,None,true
+242,Blissey,normal,1575,1969,Partly Cloudy,None,1,Normal,None,true
+243,Raikou,normal,1972,2466,Rainy,None,5,Electric,None,true
+244,Entei,normal,1984,2480,Sunny/Clear,None,5,Fire,None,true
+245,Suicune,normal,1704,2130,Rainy,None,1,Water,None,true
+246,Larvitar,normal,594,743,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+247,Pupitar,normal,1009,1261,Partly Cloudy,Sunny/Clear,1,Rock,Ground,true
+248,Tyranitar,normal,2191,2739,Partly Cloudy,Fog,5,Rock,Dark,true
+249,Lugia,normal,2115,2645,Windy,None,5,Psychic,Flying,true
+250,Ho Oh,normal,2207,2759,Sunny/Clear,Windy,5,Fire,Flying,true
+251,Celebi,normal,1865,2332,Windy,Sunny/Clear,5,Psychic,Grass,true
+252,Treecko,normal,601,752,Sunny/Clear,None,1,Grass,None,true
+253,Grovyle,normal,956,1195,Sunny/Clear,None,1,Grass,None,true
+254,Sceptile,normal,1575,1969,Sunny/Clear,None,1,Grass,None,true
+255,Torchic,normal,624,781,Sunny/Clear,None,1,Fire,None,true
+256,Combusken,normal,944,1180,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+257,Blaziken,normal,1627,2034,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+258,Mudkip,normal,644,805,Rainy,None,1,Water,None,true
+259,Marshtomp,normal,1015,1269,Rainy,Sunny/Clear,1,Water,Ground,true
+260,Swampert,normal,1699,2124,Rainy,Sunny/Clear,1,Water,Ground,true
+261,Poochyena,normal,387,484,Fog,None,1,Dark,None,true
+262,Mightyena,normal,1100,1375,Fog,None,1,Dark,None,true
+263,Zigzagoon,normal,290,363,Partly Cloudy,None,1,Normal,None,true
+264,Linoone,normal,949,1187,Partly Cloudy,None,1,Normal,None,true
+265,Wurmple,normal,330,413,Rainy,None,1,Bug,None,true
+266,Silcoon,normal,316,395,Rainy,None,1,Bug,None,true
+267,Beautifly,normal,1009,1261,Rainy,Windy,1,Bug,Flying,true
+268,Cascoon,normal,316,395,Rainy,None,1,Bug,None,true
+269,Dustox,normal,699,874,Rainy,Cloudy,1,Bug,Poison,true
+270,Lotad,normal,342,427,Rainy,Sunny/Clear,1,Water,Grass,true
+271,Lombre,normal,684,855,Rainy,Sunny/Clear,1,Water,Grass,true
+272,Ludicolo,normal,1327,1659,Rainy,Sunny/Clear,1,Water,Grass,true
+273,Seedot,normal,342,427,Sunny/Clear,None,1,Grass,None,true
+274,Nuzleaf,normal,701,876,Sunny/Clear,Fog,1,Grass,Dark,true
+275,Shiftry,normal,1333,1666,Sunny/Clear,Fog,1,Grass,Dark,true
+276,Taillow,normal,437,546,Partly Cloudy,Windy,1,Normal,Flying,true
+277,Swellow,normal,1097,1371,Partly Cloudy,Windy,1,Normal,Flying,true
+278,Wingull,normal,437,546,Rainy,Windy,1,Water,Flying,true
+279,Pelipper,normal,1215,1519,Rainy,Windy,1,Water,Flying,true
+280,Ralts,normal,308,385,Windy,Cloudy,1,Psychic,Fairy,true
+281,Kirlia,normal,552,690,Windy,Cloudy,1,Psychic,Fairy,true
+282,Gardevoir,normal,1767,2209,Windy,Cloudy,1,Psychic,Fairy,true
+283,Surskit,normal,452,565,Rainy,None,1,Bug,Water,true
+284,Masquerain,normal,1297,1622,Rainy,Windy,1,Bug,Flying,true
+285,Shroomish,normal,463,578,Sunny/Clear,None,1,Grass,None,true
+286,Breloom,normal,1502,1877,Sunny/Clear,Cloudy,1,Grass,Fighting,true
+287,Slakoth,normal,572,716,Partly Cloudy,None,1,Normal,None,true
+288,Vigoroth,normal,1124,1405,Partly Cloudy,None,1,Normal,None,true
+289,Slaking,normal,2539,3174,Partly Cloudy,None,5,Normal,None,true
+290,Nincada,normal,439,549,Rainy,Sunny/Clear,1,Bug,Ground,true
+291,Ninjask,normal,1125,1406,Rainy,Windy,1,Bug,Flying,true
+292,Shedinja,normal,130,162,Rainy,Fog,1,Bug,Ghost,true
+293,Whismur,normal,383,479,Partly Cloudy,None,1,Normal,None,true
+294,Loudred,normal,758,948,Partly Cloudy,None,1,Normal,None,true
+295,Exploud,normal,1341,1677,Partly Cloudy,None,1,Normal,None,true
+296,Makuhita,normal,467,583,Cloudy,None,1,Fighting,None,true
+297,Hariyama,normal,1616,2020,Cloudy,None,1,Fighting,None,true
+298,Azurill,normal,208,260,Partly Cloudy,Cloudy,1,Normal,Fairy,true
+299,Nosepass,normal,567,709,Partly Cloudy,None,1,Rock,None,true
+300,Skitty,normal,422,527,Partly Cloudy,None,1,Normal,None,true
+301,Delcatty,normal,854,1068,Partly Cloudy,None,1,Normal,None,true
+302,Sableye,normal,843,1054,Fog,None,1,Dark,Ghost,true
+303,Mawile,normal,934,1167,Snow,Cloudy,1,Steel,Fairy,true
+304,Aron,normal,747,934,Snow,Partly Cloudy,1,Steel,Rock,true
+305,Lairon,normal,1174,1468,Snow,Partly Cloudy,1,Steel,Rock,true
+306,Aggron,normal,1714,2143,Snow,Partly Cloudy,1,Steel,Rock,true
+307,Meditite,normal,396,495,Cloudy,Windy,1,Fighting,Psychic,true
+308,Medicham,normal,817,1022,Cloudy,Windy,1,Fighting,Psychic,true
+309,Electrike,normal,551,689,Rainy,None,1,Electric,None,true
+310,Manectric,normal,1337,1672,Rainy,None,1,Electric,None,true
+311,Plusle,normal,1016,1270,Rainy,None,1,Electric,None,true
+312,Minun,normal,968,1210,Rainy,None,1,Electric,None,true
+313,Volbeat,normal,1012,1265,Rainy,None,1,Bug,None,true
+314,Illumise,normal,1012,1265,Rainy,None,1,Bug,None,true
+315,Roselia,normal,1068,1335,Sunny/Clear,Cloudy,1,Grass,Poison,true
+316,Gulpin,normal,495,618,Cloudy,None,1,Poison,None,true
+317,Swalot,normal,1130,1413,Cloudy,None,1,Poison,None,true
+318,Carvanha,normal,583,729,Rainy,Fog,1,Water,Dark,true
+319,Sharpedo,normal,1246,1558,Rainy,Fog,1,Water,Dark,true
+320,Wailmer,normal,838,1048,Rainy,None,1,Water,None,true
+321,Wailord,normal,1302,1628,Rainy,None,1,Water,None,true
+322,Numel,normal,604,755,Sunny/Clear,None,1,Fire,Ground,true
+323,Camerupt,normal,1253,1566,Sunny/Clear,None,1,Fire,Ground,true
+324,Torkoal,normal,1196,1495,Sunny/Clear,None,1,Fire,None,true
+325,Spoink,normal,762,953,Windy,None,1,Psychic,None,true
+326,Grumpig,normal,1354,1692,Windy,None,1,Psychic,None,true
+327,Spinda,normal,697,872,Partly Cloudy,None,1,Normal,None,true
+328,Trapinch,normal,728,910,Sunny/Clear,None,1,Ground,None,true
+329,Vibrava,normal,699,875,Sunny/Clear,Windy,1,Ground,Dragon,true
+330,Flygon,normal,1520,1901,Sunny/Clear,Windy,1,Ground,Dragon,true
+331,Cacnea,normal,709,887,Sunny/Clear,None,1,Grass,None,true
+332,Cacturne,normal,1313,1641,Sunny/Clear,Fog,1,Grass,Dark,true
+333,Swablu,normal,470,588,Partly Cloudy,Windy,1,Normal,Flying,true
+334,Altaria,normal,1145,1432,Windy,None,1,Dragon,Flying,true
+335,Zangoose,normal,1381,1727,Partly Cloudy,None,1,Normal,None,true
+336,Seviper,normal,1203,1504,Cloudy,None,1,Poison,None,true
+337,Lunatone,normal,1330,1662,Partly Cloudy,Windy,1,Rock,Psychic,true
+338,Solrock,normal,1330,1662,Partly Cloudy,Windy,1,Rock,Psychic,true
+339,Barboach,normal,468,585,Rainy,Sunny/Clear,1,Water,Ground,true
+340,Whiscash,normal,1186,1482,Rainy,Sunny/Clear,1,Water,Ground,true
+341,Corphish,normal,703,879,Rainy,None,1,Water,None,true
+342,Crawdaunt,normal,1413,1767,Rainy,Fog,1,Water,Dark,true
+343,Baltoy,normal,449,562,Sunny/Clear,Windy,1,Ground,Psychic,true
+344,Claydol,normal,1126,1408,Sunny/Clear,Windy,1,Ground,Psychic,true
+345,Lileep,normal,738,922,Partly Cloudy,Sunny/Clear,1,Rock,Grass,true
+346,Cradily,normal,1263,1579,Partly Cloudy,Sunny/Clear,1,Rock,Grass,true
+347,Anorith,normal,874,1092,Partly Cloudy,Rainy,1,Rock,Bug,true
+348,Armaldo,normal,1627,2035,Partly Cloudy,Rainy,1,Rock,Bug,true
+349,Feebas,normal,157,196,Rainy,None,1,Water,None,true
+350,Milotic,normal,1717,2147,Rainy,None,1,Water,None,true
+351,Castform,normal,932,1165,Partly Cloudy,None,1,Normal,None,true
+352,Kecleon,normal,1169,1462,Partly Cloudy,None,1,Normal,None,true
+353,Shuppet,normal,581,727,Fog,None,1,Ghost,None,true
+354,Banette,normal,1313,1642,Fog,None,1,Ghost,None,true
+355,Duskull,normal,403,504,Fog,None,1,Ghost,None,true
+356,Dusclops,normal,909,1136,Fog,None,1,Ghost,None,true
+357,Tropius,normal,1109,1386,Sunny/Clear,Windy,1,Grass,Flying,true
+358,Chimecho,normal,1291,1614,Windy,None,1,Psychic,None,true
+359,Absol,normal,1443,1805,Fog,None,1,Dark,None,true
+360,Wynaut,normal,305,381,Windy,None,1,Psychic,None,true
+361,Snorunt,normal,507,634,Snow,None,1,Ice,None,true
+362,Glalie,normal,1203,1504,Snow,None,1,Ice,None,true
+363,Spheal,normal,550,687,Snow,Rainy,1,Ice,Water,true
+364,Sealeo,normal,979,1225,Snow,Rainy,1,Ice,Water,true
+365,Walrein,normal,1557,1947,Snow,Rainy,1,Ice,Water,true
+366,Clamperl,normal,726,907,Rainy,None,1,Water,None,true
+367,Huntail,normal,1337,1671,Rainy,None,1,Water,None,true
+368,Gorebyss,normal,1425,1781,Rainy,None,1,Water,None,true
+369,Relicanth,normal,1444,1806,Rainy,Partly Cloudy,1,Water,Rock,true
+370,Luvdisc,normal,484,605,Rainy,None,1,Water,None,true
+371,Bagon,normal,660,826,Windy,None,1,Dragon,None,true
+372,Shelgon,normal,1160,1451,Windy,None,1,Dragon,None,true
+373,Salamence,normal,2142,2678,Windy,None,5,Dragon,Flying,true
+374,Beldum,normal,558,697,Snow,Windy,1,Steel,Psychic,true
+375,Metang,normal,983,1229,Snow,Windy,1,Steel,Psychic,true
+376,Metagross,normal,2166,2708,Snow,Windy,5,Steel,Psychic,true
+377,Regirock,normal,1784,2230,Partly Cloudy,None,1,Rock,None,true
+378,Regice,normal,1784,2230,Snow,None,1,Ice,None,true
+379,Registeel,normal,1398,1748,Snow,None,1,Steel,None,true
+380,Latias,normal,2006,2507,Windy,None,5,Dragon,Psychic,true
+381,Latios,normal,2178,2723,Windy,None,5,Dragon,Psychic,true
+382,Kyogre,normal,2351,2939,Rainy,None,5,Water,None,true
+383,Groudon,normal,2351,2939,Sunny/Clear,None,5,Ground,None,true
+384,Rayquaza,normal,2186,2733,Windy,None,5,Dragon,Flying,true
+385,Jirachi,normal,1865,2332,Snow,Windy,5,Steel,Psychic,true
+386,Deoxys,normal,1806,2257,Windy,None,1,Psychic,None,true
+387,Turtwig,normal,678,848,Sunny/Clear,None,1,Grass,None,true
+388,Grotle,normal,1080,1350,Sunny/Clear,None,1,Grass,None,true
+389,Torterra,normal,1677,2096,Sunny/Clear,None,1,Grass,Ground,true
+390,Chimchar,normal,547,683,Sunny/Clear,None,1,Fire,None,true
+391,Monferno,normal,899,1124,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+392,Infernape,normal,1533,1916,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+393,Piplup,normal,614,767,Rainy,None,1,Water,None,true
+394,Prinplup,normal,972,1215,Rainy,None,1,Water,None,true
+395,Empoleon,normal,1657,2072,Rainy,Snow,1,Water,Steel,true
+399,Bidoof,normal,412,515,Partly Cloudy,None,1,Normal,None,true
+400,Bibarel,normal,1041,1302,Partly Cloudy,Rainy,1,Normal,Water,true
+401,Kricketot,normal,229,286,Rainy,None,1,Bug,None,true
+402,Kricketune,normal,944,1181,Rainy,None,1,Bug,None,true
+403,Shinx,normal,500,625,Rainy,None,1,Electric,None,true
+404,Luxio,normal,849,1061,Rainy,None,1,Electric,None,true
+405,Luxray,normal,1650,2063,Rainy,None,1,Electric,None,true
+406,Budew,normal,489,611,Sunny/Clear,Cloudy,1,Grass,Poison,true
+407,Roserade,normal,1697,2122,Sunny/Clear,Cloudy,1,Grass,Poison,true
+408,Cranidos,normal,1040,1300,Partly Cloudy,None,1,Rock,None,true
+409,Rampardos,normal,1884,2355,Partly Cloudy,None,5,Rock,None,true
+410,Shieldon,normal,509,636,Partly Cloudy,Snow,1,Rock,Steel,true
+411,Bastiodon,normal,879,1100,Partly Cloudy,Snow,1,Rock,Steel,true
+412,Burmy,normal,279,348,Rainy,None,1,Bug,None,true
+413,Wormadam,plant,1013,1267,Rainy,Sunny/Clear,1,Bug,Grass,true
+414,Mothim,normal,1037,1297,Rainy,Windy,1,Bug,Flying,true
+415,Combee,normal,282,353,Rainy,Windy,1,Bug,Flying,true
+416,Vespiquen,normal,1145,1432,Rainy,Windy,1,Bug,Flying,true
+417,Pachirisu,normal,693,867,Rainy,None,1,Electric,None,true
+418,Buizel,normal,602,753,Rainy,None,1,Water,None,true
+419,Floatzel,normal,1396,1745,Rainy,None,1,Water,None,true
+420,Cherubi,normal,542,678,Sunny/Clear,None,1,Grass,None,true
+421,Cherrim,normal,1170,1462,Sunny/Clear,None,1,Grass,None,true
+422,Shellos,normal,649,811,Rainy,None,1,Water,None,true
+423,Gastrodon,normal,1328,1660,Rainy,Sunny/Clear,1,Water,Ground,true
+424,Ambipom,normal,1381,1727,Partly Cloudy,None,1,Normal,None,true
+425,Drifloon,normal,684,855,Fog,Windy,1,Ghost,Flying,true
+426,Drifblim,normal,1361,1701,Fog,Windy,1,Ghost,Flying,true
+427,Buneary,normal,719,899,Partly Cloudy,None,1,Normal,None,true
+428,Lopunny,normal,1177,1471,Partly Cloudy,None,1,Normal,None,true
+429,Mismagius,normal,1494,1868,Fog,None,1,Ghost,None,true
+430,Honchkrow,normal,1549,1937,Fog,Windy,1,Dark,Flying,true
+431,Glameow,normal,533,667,Partly Cloudy,None,1,Normal,None,true
+432,Purugly,normal,1116,1395,Partly Cloudy,None,1,Normal,None,true
+433,Chingling,normal,574,718,Windy,None,1,Psychic,None,true
+434,Stunky,normal,657,822,Cloudy,Fog,1,Poison,Dark,true
+435,Skuntank,normal,1347,1684,Cloudy,Fog,1,Poison,Dark,true
+436,Bronzor,normal,344,430,Snow,Windy,1,Steel,Psychic,true
+437,Bronzong,normal,1279,1599,Snow,Windy,1,Steel,Psychic,true
+438,Bonsly,normal,744,930,Partly Cloudy,None,1,Rock,None,true
+439,Mime,jr,626,782,Windy,Cloudy,1,Psychic,Fairy,true
+440,Happiny,normal,212,265,Partly Cloudy,None,1,Normal,None,true
+441,Chatot,normal,1023,1279,Partly Cloudy,Windy,1,Normal,Flying,true
+442,Spiritomb,normal,1184,1480,Fog,None,1,Ghost,Dark,true
+443,Gible,normal,635,794,Windy,Sunny/Clear,1,Dragon,Ground,true
+444,Gabite,normal,1071,1339,Windy,Sunny/Clear,1,Dragon,Ground,true
+445,Garchomp,normal,2264,2830,Windy,Sunny/Clear,5,Dragon,Ground,true
+446,Munchlax,normal,1081,1351,Partly Cloudy,None,1,Normal,None,true
+447,Riolu,normal,567,709,Cloudy,None,1,Fighting,None,true
+448,Lucario,normal,1544,1930,Cloudy,Snow,1,Fighting,Steel,true
+449,Hippopotas,normal,776,970,Sunny/Clear,None,1,Ground,None,true
+450,Hippowdon,normal,1763,2204,Sunny/Clear,None,1,Ground,None,true
+451,Skorupi,normal,576,721,Cloudy,Rainy,1,Poison,Bug,true
+452,Drapion,normal,1401,1752,Cloudy,Fog,1,Poison,Dark,true
+453,Croagunk,normal,544,680,Cloudy,None,1,Poison,Fighting,true
+454,Toxicroak,normal,1421,1777,Cloudy,None,1,Poison,Fighting,true
+455,Carnivine,normal,1233,1542,Sunny/Clear,None,1,Grass,None,true
+456,Finneon,normal,555,694,Rainy,None,1,Water,None,true
+457,Lumineon,normal,1036,1295,Rainy,None,1,Water,None,true
+458,Mantyke,normal,713,891,Rainy,Windy,1,Water,Flying,true
+459,Snover,normal,662,828,Sunny/Clear,Snow,1,Grass,Ice,true
+460,Abomasnow,normal,1349,1687,Sunny/Clear,Snow,1,Grass,Ice,true
+461,Weavile,normal,1717,2146,Fog,Snow,1,Dark,Ice,true
+462,Magnezone,normal,1831,2289,Rainy,Snow,5,Electric,Steel,true
+463,Lickilicky,normal,1409,1762,Partly Cloudy,None,1,Normal,None,true
+464,Rhyperior,normal,2133,2667,Sunny/Clear,Partly Cloudy,5,Ground,Rock,true
+465,Tangrowth,normal,1731,2164,Sunny/Clear,None,1,Grass,None,true
+466,Electivire,normal,1759,2199,Rainy,None,1,Electric,None,true
+467,Magmortar,normal,1790,2237,Sunny/Clear,None,1,Fire,None,true
+468,Togekiss,normal,1904,2380,Cloudy,Windy,5,Fairy,Flying,true
+469,Yanmega,normal,1683,2104,Rainy,Windy,1,Bug,Flying,true
+470,Leafeon,normal,1682,2103,Sunny/Clear,None,1,Grass,None,true
+471,Glaceon,normal,1786,2233,Snow,None,1,Ice,None,true
+472,Gliscor,normal,1538,1923,Sunny/Clear,Windy,1,Ground,Flying,true
+473,Mamoswine,normal,1902,2377,Snow,Sunny/Clear,5,Ice,Ground,true
+474,Porygon Z,normal,1866,2333,Partly Cloudy,None,5,Normal,None,true
+475,Gallade,normal,1767,2209,Windy,Cloudy,1,Psychic,Fighting,true
+476,Probopass,normal,1188,1485,Partly Cloudy,Snow,1,Rock,Steel,true
+477,Dusknoir,normal,1364,1706,Fog,None,1,Ghost,None,true
+478,Froslass,normal,1166,1457,Snow,Fog,1,Ice,Ghost,true
+479,Rotom,normal,1160,1451,Rainy,Fog,1,Electric,Ghost,true
+480,Uxie,normal,1442,1803,Windy,None,1,Psychic,None,true
+481,Mesprit,normal,1747,2184,Windy,None,1,Psychic,None,true
+482,Azelf,normal,1834,2293,Windy,None,5,Psychic,None,true
+483,Dialga,normal,2307,2884,Snow,Windy,5,Steel,Dragon,true
+484,Palkia,normal,2274,2843,Rainy,Windy,5,Water,Dragon,true
+485,Heatran,normal,2145,2681,Sunny/Clear,Snow,5,Fire,Steel,true
+486,Regigigas,normal,2478,3098,Partly Cloudy,None,5,Normal,None,true
+487,Giratina,altered,1931,2414,Fog,Windy,5,Ghost,Dragon,true
+488,Cresselia,normal,1633,2041,Windy,None,1,Psychic,None,true
+489,Phione,normal,1203,1504,Rainy,None,1,Water,None,true
+490,Manaphy,normal,1865,2332,Rainy,None,5,Water,None,true
+491,Darkrai,normal,2136,2671,Fog,None,5,Dark,None,true
+492,Shaymin,land,1865,2332,Sunny/Clear,None,5,Grass,None,true
+493,Arceus,normal,2279,2850,Partly Cloudy,None,5,Normal,None,true
+494,Victini,normal,1865,2332,Windy,Sunny/Clear,5,Psychic,Fire,true
+495,Snivy,normal,485,606,Sunny/Clear,None,1,Grass,None,true
+496,Servine,normal,823,1029,Sunny/Clear,None,1,Grass,None,true
+497,Serperior,normal,1301,1626,Sunny/Clear,None,1,Grass,None,true
+498,Tepig,normal,618,773,Sunny/Clear,None,1,Fire,None,true
+499,Pignite,normal,1099,1374,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+500,Emboar,normal,1704,2130,Sunny/Clear,Cloudy,1,Fire,Fighting,true
+501,Oshawott,normal,597,747,Rainy,None,1,Water,None,true
+502,Dewott,normal,995,1243,Rainy,None,1,Water,None,true
+503,Samurott,normal,1614,2018,Rainy,None,1,Water,None,true
+504,Patrat,normal,452,565,Partly Cloudy,None,1,Normal,None,true
+505,Watchog,normal,1039,1299,Partly Cloudy,None,1,Normal,None,true
+506,Lillipup,normal,523,654,Partly Cloudy,None,1,Normal,None,true
+507,Herdier,normal,904,1130,Partly Cloudy,None,1,Normal,None,true
+508,Stoutland,normal,1615,2019,Partly Cloudy,None,1,Normal,None,true
+509,Purrloin,normal,441,551,Fog,None,1,Dark,None,true
+510,Liepard,normal,1055,1318,Fog,None,1,Dark,None,true
+511,Pansage,normal,546,683,Sunny/Clear,None,1,Grass,None,true
+512,Simisage,normal,1343,1679,Sunny/Clear,None,1,Grass,None,true
+513,Pansear,normal,546,683,Sunny/Clear,None,1,Fire,None,true
+514,Simisear,normal,1343,1679,Sunny/Clear,None,1,Fire,None,true
+515,Panpour,normal,546,683,Rainy,None,1,Water,None,true
+516,Simipour,normal,1343,1679,Rainy,None,1,Water,None,true
+517,Munna,normal,654,818,Windy,None,1,Psychic,None,true
+518,Musharna,normal,1556,1945,Windy,None,1,Psychic,None,true
+519,Pidove,normal,484,605,Partly Cloudy,Windy,1,Normal,Flying,true
+520,Tranquill,normal,824,1030,Partly Cloudy,Windy,1,Normal,Flying,true
+521,Unfezant,normal,1562,1953,Partly Cloudy,Windy,1,Normal,Flying,true
+522,Blitzle,normal,504,630,Rainy,None,1,Electric,None,true
+523,Zebstrika,normal,1387,1734,Rainy,None,1,Electric,None,true
+524,Roggenrola,normal,688,860,Partly Cloudy,None,1,Rock,None,true
+525,Boldore,normal,1159,1449,Partly Cloudy,None,1,Rock,None,true
+526,Gigalith,normal,1844,2306,Partly Cloudy,None,5,Rock,None,true
+527,Woobat,normal,580,726,Windy,None,1,Psychic,Flying,true
+528,Swoobat,normal,980,1226,Windy,None,1,Psychic,Flying,true
+529,Drilbur,normal,786,983,Sunny/Clear,None,1,Ground,None,true
+530,Excadrill,normal,1853,2317,Sunny/Clear,Snow,5,Ground,Steel,true
+531,Audino,normal,961,1201,Partly Cloudy,None,1,Normal,None,true
+532,Timburr,normal,751,939,Cloudy,None,1,Fighting,None,true
+533,Gurdurr,normal,1239,1549,Cloudy,None,1,Fighting,None,true
+534,Conkeldurr,normal,1907,2384,Cloudy,None,5,Fighting,None,true
+535,Tympole,normal,479,599,Rainy,None,1,Water,None,true
+536,Palpitoad,normal,795,994,Rainy,Sunny/Clear,1,Water,Ground,true
+537,Seismitoad,normal,1465,1832,Rainy,Sunny/Clear,1,Water,Ground,true
+538,Throh,normal,1464,1830,Cloudy,None,1,Fighting,None,true
+539,Sawk,normal,1593,1991,Cloudy,None,1,Fighting,None,true
+540,Sewaddle,normal,558,698,Rainy,Sunny/Clear,1,Bug,Grass,true
+541,Swadloon,normal,783,979,Rainy,Sunny/Clear,1,Bug,Grass,true
+542,Leavanny,normal,1474,1843,Rainy,Sunny/Clear,1,Bug,Grass,true
+543,Venipede,normal,403,504,Rainy,Cloudy,1,Bug,Poison,true
+544,Whirlipede,normal,653,817,Rainy,Cloudy,1,Bug,Poison,true
+545,Scolipede,normal,1398,1747,Rainy,Cloudy,1,Bug,Poison,true
+546,Cottonee,normal,400,500,Sunny/Clear,Cloudy,1,Grass,Fairy,true
+547,Whimsicott,normal,1151,1439,Sunny/Clear,Cloudy,1,Grass,Fairy,true
+548,Petilil,normal,588,736,Sunny/Clear,None,1,Grass,None,true
+549,Lilligant,normal,1457,1821,Sunny/Clear,None,1,Grass,None,true
+550,Basculin,red-striped,1194,1493,Rainy,None,1,Water,None,true
+551,Sandile,normal,592,741,Sunny/Clear,Fog,1,Ground,Dark,true
+552,Krokorok,normal,810,1013,Sunny/Clear,Fog,1,Ground,Dark,true
+553,Krookodile,normal,1740,2176,Sunny/Clear,Fog,1,Ground,Dark,true
+554,Darumaka,normal,823,1030,Sunny/Clear,None,1,Fire,None,true
+555,Darmanitan,standard,1774,2218,Sunny/Clear,None,1,Fire,None,true
+556,Maractus,normal,1299,1624,Sunny/Clear,None,1,Grass,None,true
+557,Dwebble,normal,699,874,Rainy,Partly Cloudy,1,Bug,Rock,true
+558,Crustle,normal,1452,1815,Rainy,Partly Cloudy,1,Bug,Rock,true
+559,Scraggy,normal,784,980,Fog,Cloudy,1,Dark,Fighting,true
+560,Scrafty,normal,1304,1631,Fog,Cloudy,1,Dark,Fighting,true
+561,Sigilyph,normal,1457,1821,Windy,None,1,Psychic,Flying,true
+562,Yamask,normal,561,701,Fog,None,1,Ghost,None,true
+563,Cofagrigus,normal,1299,1624,Fog,None,1,Ghost,None,true
+564,Tirtouga,normal,850,1063,Rainy,Partly Cloudy,1,Water,Rock,true
+565,Carracosta,normal,1498,1872,Rainy,Partly Cloudy,1,Water,Rock,true
+566,Archen,normal,1052,1316,Partly Cloudy,Windy,1,Rock,Flying,true
+567,Archeops,normal,1903,2379,Partly Cloudy,Windy,5,Rock,Flying,true
+568,Trubbish,normal,571,714,Cloudy,None,1,Poison,None,true
+569,Garbodor,normal,1339,1675,Cloudy,None,1,Poison,None,true
+570,Zorua,normal,671,839,Fog,None,1,Dark,None,true
+571,Zoroark,normal,1469,1836,Fog,None,1,Dark,None,true
+572,Minccino,normal,498,623,Partly Cloudy,None,1,Normal,None,true
+573,Cinccino,normal,1281,1601,Partly Cloudy,None,1,Normal,None,true
+574,Gothita,normal,543,679,Windy,None,1,Psychic,None,true
+575,Gothorita,normal,916,1146,Windy,None,1,Psychic,None,true
+576,Gothitelle,normal,1382,1728,Windy,None,1,Psychic,None,true
+577,Solosis,normal,781,977,Windy,None,1,Psychic,None,true
+578,Duosion,normal,1153,1441,Windy,None,1,Psychic,None,true
+579,Reuniclus,normal,1672,2091,Windy,None,1,Psychic,None,true
+580,Ducklett,normal,489,612,Rainy,Windy,1,Water,Flying,true
+581,Swanna,normal,1193,1491,Rainy,Windy,1,Water,Flying,true
+582,Vanillite,normal,590,738,Snow,None,1,Ice,None,true
+583,Vanillish,normal,909,1136,Snow,None,1,Ice,None,true
+584,Vanilluxe,normal,1612,2015,Snow,None,1,Ice,None,true
+585,Deerling,normal,648,810,Partly Cloudy,Sunny/Clear,1,Normal,Grass,true
+586,Sawsbuck,normal,1381,1726,Partly Cloudy,Sunny/Clear,1,Normal,Grass,true
 587,Emolga,normal,933,1166,Rainy,Windy,1,Electric,Flying,true
+588,Karrablast,normal,675,844,Rainy,None,1,Bug,None,true
+589,Escavalier,normal,1650,2063,Rainy,Snow,1,Bug,Steel,true
+590,Foongus,normal,559,699,Sunny/Clear,Cloudy,1,Grass,Poison,true
+591,Amoonguss,normal,1223,1529,Sunny/Clear,Cloudy,1,Grass,Poison,true
+592,Frillish,male,718,898,Rainy,Fog,1,Water,Ghost,true
+593,Jellicent,male,1336,1670,Rainy,Fog,1,Water,Ghost,true
+594,Alomomola,normal,1239,1549,Rainy,None,1,Water,None,true
+595,Joltik,normal,584,730,Rainy,None,1,Bug,Electric,true
+596,Galvantula,normal,1260,1575,Rainy,None,1,Bug,Electric,true
+597,Ferroseed,normal,537,672,Sunny/Clear,Snow,1,Grass,Steel,true
+598,Ferrothorn,normal,1326,1658,Sunny/Clear,Snow,1,Grass,Steel,true
+599,Klink,normal,546,683,Snow,None,1,Steel,None,true
+600,Klang,normal,1055,1319,Snow,None,1,Steel,None,true
+601,Klinklang,normal,1506,1883,Snow,None,1,Steel,None,true
+602,Tynamo,normal,463,579,Rainy,None,1,Electric,None,true
+603,Eelektrik,normal,980,1225,Rainy,None,1,Electric,None,true
+604,Eelektross,normal,1561,1952,Rainy,None,1,Electric,None,true
+605,Elgyem,normal,791,989,Windy,None,1,Psychic,None,true
+606,Beheeyem,normal,1573,1966,Windy,None,1,Psychic,None,true
+607,Litwick,normal,575,719,Fog,Sunny/Clear,1,Ghost,Fire,true
+608,Lampent,normal,976,1220,Fog,Sunny/Clear,1,Ghost,Fire,true
+609,Chandelure,normal,1867,2335,Fog,Sunny/Clear,5,Ghost,Fire,true
+610,Axew,normal,782,977,Windy,None,1,Dragon,None,true
+611,Fraxure,normal,1276,1596,Windy,None,1,Dragon,None,true
+612,Haxorus,normal,2053,2566,Windy,None,5,Dragon,None,true
+613,Cubchoo,normal,610,763,Snow,None,1,Ice,None,true
+614,Beartic,normal,1738,2173,Snow,None,1,Ice,None,true
+615,Cryogonal,normal,1598,1998,Snow,None,1,Ice,None,true
+616,Shelmet,normal,476,595,Rainy,None,1,Bug,None,true
+617,Accelgor,normal,1395,1744,Rainy,None,1,Bug,None,true
+618,Stunfisk,normal,1235,1544,Sunny/Clear,Rainy,1,Ground,Electric,true
+619,Mienfoo,normal,793,992,Cloudy,None,1,Fighting,None,true
+620,Mienshao,normal,1548,1936,Cloudy,None,1,Fighting,None,true
+621,Druddigon,normal,1561,1951,Windy,None,1,Dragon,None,true
+622,Golett,normal,679,849,Sunny/Clear,Fog,1,Ground,Ghost,true
+623,Golurk,normal,1630,2038,Sunny/Clear,Fog,1,Ground,Ghost,true
+624,Pawniard,normal,819,1024,Fog,Snow,1,Dark,Steel,true
+625,Bisharp,normal,1625,2031,Fog,Snow,1,Dark,Steel,true
+626,Bouffalant,normal,1598,1998,Partly Cloudy,None,1,Normal,None,true
+627,Rufflet,normal,852,1065,Partly Cloudy,Windy,1,Normal,Flying,true
+628,Braviary,normal,1764,2206,Partly Cloudy,Windy,1,Normal,Flying,true
+629,Vullaby,normal,726,908,Fog,Windy,1,Dark,Flying,true
+630,Mandibuzz,normal,1221,1527,Fog,Windy,1,Dark,Flying,true
+631,Heatmor,normal,1368,1711,Sunny/Clear,None,1,Fire,None,true
+632,Durant,normal,1519,1900,Rainy,Snow,1,Bug,Steel,true
+633,Deino,normal,606,758,Fog,Windy,1,Dark,Dragon,true
+634,Zweilous,normal,1051,1313,Fog,Windy,1,Dark,Dragon,true
+635,Hydreigon,normal,2071,2589,Fog,Windy,5,Dark,Dragon,true
+636,Larvesta,normal,855,1069,Rainy,Sunny/Clear,1,Bug,Fire,true
+637,Volcarona,normal,2075,2594,Rainy,Sunny/Clear,5,Bug,Fire,true
+638,Cobalion,normal,1727,2159,Snow,Cloudy,1,Steel,Fighting,true
+639,Terrakion,normal,2113,2641,Partly Cloudy,Cloudy,5,Rock,Fighting,true
+640,Virizion,normal,1727,2159,Sunny/Clear,Cloudy,1,Grass,Fighting,true
+641,Tornadus,incarnate,1911,2389,Windy,None,5,Flying,None,true
+642,Thundurus,incarnate,1911,2389,Rainy,Windy,5,Electric,Flying,true
+643,Reshiram,normal,2307,2884,Windy,Sunny/Clear,5,Dragon,Fire,true
+644,Zekrom,normal,2307,2884,Windy,Rainy,5,Dragon,Electric,true
+645,Landorus,incarnate,2050,2563,Sunny/Clear,Windy,5,Ground,Flying,true
+646,Kyurem,normal,2038,2548,Windy,Snow,5,Dragon,Ice,true
+647,Keldeo,ordinary,2113,2641,Rainy,Cloudy,5,Water,Fighting,true
+648,Meloetta,aria,2269,2837,Partly Cloudy,Windy,5,Normal,Psychic,true
+649,Genesect,normal,1916,2395,Rainy,Snow,5,Bug,Steel,true
+650,Chespin,normal,626,783,Sunny/Clear,None,1,Grass,None,true
+651,Quilladin,normal,982,1228,Sunny/Clear,None,1,Grass,None,true
+652,Chesnaught,normal,1688,2110,Sunny/Clear,Cloudy,1,Grass,Fighting,true
+653,Fennekin,normal,587,734,Sunny/Clear,None,1,Fire,None,true
+654,Braixen,normal,1036,1295,Sunny/Clear,None,1,Fire,None,true
+655,Delphox,normal,1748,2185,Sunny/Clear,Windy,1,Fire,Psychic,true
+656,Froakie,normal,567,709,Rainy,None,1,Water,None,true
+657,Frogadier,normal,935,1169,Rainy,None,1,Water,None,true
+658,Greninja,normal,1516,1896,Rainy,Fog,1,Water,Dark,true
+659,Bunnelby,normal,316,395,Partly Cloudy,None,1,Normal,None,true
+660,Diggersby,normal,862,1078,Partly Cloudy,Sunny/Clear,1,Normal,Ground,true
+661,Fletchling,normal,457,571,Partly Cloudy,Windy,1,Normal,Flying,true
+662,Fletchinder,normal,839,1049,Sunny/Clear,Windy,1,Fire,Flying,true
+663,Talonflame,normal,1260,1575,Sunny/Clear,Windy,1,Fire,Flying,true
+664,Scatterbug,normal,281,351,Rainy,None,1,Bug,None,true
+665,Spewpa,normal,274,342,Rainy,None,1,Bug,None,true
+666,Vivillon,normal,1060,1325,Rainy,Windy,1,Bug,Flying,true
+667,Litleo,normal,814,1018,Sunny/Clear,Partly Cloudy,1,Fire,Normal,true
+668,Pyroar,male,1581,1977,Sunny/Clear,Partly Cloudy,1,Fire,Normal,true
+669,Flabebe,normal,607,759,Cloudy,None,1,Fairy,None,true
+670,Floette,normal,875,1094,Cloudy,None,1,Fairy,None,true
+671,Florges,normal,1848,2310,Cloudy,None,5,Fairy,None,true
+672,Skiddo,normal,714,893,Sunny/Clear,None,1,Grass,None,true
+673,Gogoat,normal,1598,1998,Sunny/Clear,None,1,Grass,None,true
+674,Pancham,normal,850,1063,Cloudy,None,1,Fighting,None,true
+675,Pangoro,normal,1658,2073,Cloudy,Fog,1,Fighting,Dark,true
+676,Furfrou,normal,1206,1508,Partly Cloudy,None,1,Normal,None,true
+677,Espurr,normal,719,899,Windy,None,1,Psychic,None,true
+678,Meowstic,male,1213,1517,Windy,None,1,Psychic,None,true
+679,Honedge,normal,794,993,Snow,Fog,1,Steel,Ghost,true
+680,Doublade,normal,1395,1745,Snow,Fog,1,Steel,Ghost,true
+681,Aegislash,shield,882,1103,Snow,Fog,1,Steel,Ghost,true
+682,Spritzee,normal,715,894,Cloudy,None,1,Fairy,None,true
+683,Aromatisse,normal,1337,1672,Cloudy,None,1,Fairy,None,true
+684,Swirlix,normal,673,842,Cloudy,None,1,Fairy,None,true
+685,Slurpuff,normal,1256,1570,Cloudy,None,1,Fairy,None,true
+686,Inkay,normal,529,662,Fog,Windy,1,Dark,Psychic,true
+687,Malamar,normal,1347,1685,Fog,Windy,1,Dark,Psychic,true
+688,Binacle,normal,540,675,Partly Cloudy,Rainy,1,Rock,Water,true
+689,Barbaracle,normal,1528,1911,Partly Cloudy,Rainy,1,Rock,Water,true
+690,Skrelp,normal,607,759,Cloudy,Rainy,1,Poison,Water,true
+691,Dragalge,normal,1362,1702,Cloudy,Windy,1,Poison,Dragon,true
+692,Clauncher,normal,621,777,Rainy,None,1,Water,None,true
+693,Clawitzer,normal,1579,1974,Rainy,None,1,Water,None,true
+694,Helioptile,normal,533,666,Rainy,Partly Cloudy,1,Electric,Normal,true
+695,Heliolisk,normal,1485,1857,Rainy,Partly Cloudy,1,Electric,Normal,true
+696,Tyrunt,normal,934,1168,Partly Cloudy,Windy,1,Rock,Dragon,true
+697,Tyrantrum,normal,1787,2234,Partly Cloudy,Windy,1,Rock,Dragon,true
+698,Amaura,normal,779,974,Partly Cloudy,Snow,1,Rock,Ice,true
+699,Aurorus,normal,1601,2001,Partly Cloudy,Snow,1,Rock,Ice,true
+700,Sylveon,normal,1753,2192,Cloudy,None,1,Fairy,None,true
+701,Hawlucha,normal,1377,1721,Cloudy,Windy,1,Fighting,Flying,true
 702,Dedenne,normal,1051,1315,Rainy,Cloudy,1,Electric,Fairy,true
-835,Yamper,normal,450,562,Rainy,,1,Electric,,false
-921,Pawmi,normal,363,454,Rainy,,1,Electric,,true
-026,Raichu,normal,1247,1558,Rainy,,3,Electric,,true
-026,Raichu,Alolan,1306,1633,Rainy,Windy,3,Electric,Psychic,true
-184,Azumarill,normal,907,1134,Rainy,Cloudy,3,Water,Fairy,true
-895,Regidrago,normal,1699,2124,Windy,,5,Dragon,,true
-310,Manectric,Mega,1337,1672,Rainy,,Mega,Electric,,true
-381,Latios,Shadow,2178,2723,Windy,,5,Dragon,Psychic,true
-000,Missingno,normal,0,0,?????,?????,0,Flying,Normal,false
+703,Carbink,normal,838,1047,Partly Cloudy,Cloudy,1,Rock,Fairy,true
+704,Goomy,normal,557,697,Windy,None,1,Dragon,None,true
+705,Sliggoo,normal,1164,1455,Windy,None,1,Dragon,None,true
+706,Goodra,normal,2003,2504,Windy,None,5,Dragon,None,true
+707,Klefki,normal,1114,1392,Snow,Cloudy,1,Steel,Fairy,true
+708,Phantump,normal,642,802,Fog,Sunny/Clear,1,Ghost,Grass,true
+709,Trevenant,normal,1462,1828,Fog,Sunny/Clear,1,Ghost,Grass,true
+710,Pumpkaboo,average,698,872,Fog,Sunny/Clear,1,Ghost,Grass,true
+711,Gourgeist,average,1366,1707,Fog,Sunny/Clear,1,Ghost,Grass,true
+712,Bergmite,normal,694,868,Snow,None,1,Ice,None,true
+713,Avalugg,normal,1827,2284,Snow,None,1,Ice,None,true
+714,Noibat,normal,381,476,Windy,None,1,Flying,Dragon,true
+715,Noivern,normal,1579,1974,Windy,None,1,Flying,Dragon,true
+716,Xerneas,normal,2160,2701,Cloudy,None,5,Fairy,None,true
+717,Yveltal,normal,2160,2701,Fog,Windy,5,Dark,Flying,true
+718,Zygarde,50,1948,2436,Windy,Sunny/Clear,5,Dragon,Ground,true
+719,Diancie,normal,1562,1953,Partly Cloudy,Cloudy,1,Rock,Fairy,true
+720,Hoopa,normal,1919,2399,Windy,Fog,5,Psychic,Ghost,true
+721,Volcanion,normal,2073,2592,Sunny/Clear,Rainy,5,Fire,Water,true
+722,Rowlet,normal,604,755,Sunny/Clear,Windy,1,Grass,Flying,true
+723,Dartrix,normal,985,1232,Sunny/Clear,Windy,1,Grass,Flying,true
+724,Decidueye,normal,1585,1982,Sunny/Clear,Fog,1,Grass,Ghost,true
+725,Litten,normal,591,739,Sunny/Clear,None,1,Fire,None,true
+726,Torracat,normal,977,1222,Sunny/Clear,None,1,Fire,None,true
+727,Incineroar,normal,1712,2140,Sunny/Clear,Fog,1,Fire,Dark,true
+728,Popplio,normal,645,806,Rainy,None,1,Water,None,true
+729,Brionne,normal,1077,1346,Rainy,None,1,Water,None,true
+730,Primarina,normal,1829,2286,Rainy,Cloudy,5,Water,Fairy,true
+731,Pikipek,normal,520,650,Partly Cloudy,Windy,1,Normal,Flying,true
+732,Trumbeak,normal,844,1056,Partly Cloudy,Windy,1,Normal,Flying,true
+733,Toucannon,normal,1536,1920,Partly Cloudy,Windy,1,Normal,Flying,true
+734,Yungoos,normal,502,628,Partly Cloudy,None,1,Normal,None,true
+735,Gumshoos,normal,1248,1561,Partly Cloudy,None,1,Normal,None,true
+736,Grubbin,normal,562,703,Rainy,None,1,Bug,None,true
+737,Charjabug,normal,970,1212,Rainy,None,1,Bug,Electric,true
+738,Vikavolt,normal,1781,2226,Rainy,None,1,Bug,Electric,true
+739,Crabrawler,normal,778,973,Cloudy,None,1,Fighting,None,true
+740,Crabominable,normal,1661,2076,Cloudy,Snow,1,Fighting,Ice,true
+741,Oricorio,baile,1333,1667,Sunny/Clear,Windy,1,Fire,Flying,true
+742,Cutiefly,normal,507,634,Rainy,Cloudy,1,Bug,Fairy,true
+743,Ribombee,normal,1257,1572,Rainy,Cloudy,1,Bug,Fairy,true
+744,Rockruff,normal,543,679,Partly Cloudy,None,1,Rock,None,true
+745,Lycanroc,midday,1530,1912,Partly Cloudy,None,1,Rock,None,true
+746,Wishiwashi,solo,198,247,Rainy,None,1,Water,None,true
+747,Mareanie,normal,555,694,Cloudy,Rainy,1,Poison,Water,true
+748,Toxapex,normal,963,1204,Cloudy,Rainy,1,Poison,Water,true
+749,Mudbray,normal,1081,1351,Sunny/Clear,None,1,Ground,None,true
+750,Mudsdale,normal,1740,2175,Sunny/Clear,None,1,Ground,None,true
+751,Dewpider,normal,408,510,Rainy,None,1,Water,Bug,true
+752,Araquanid,normal,1044,1305,Rainy,None,1,Water,Bug,true
+753,Fomantis,normal,423,529,Sunny/Clear,None,1,Grass,None,true
+754,Lurantis,normal,1370,1713,Sunny/Clear,None,1,Grass,None,true
+755,Morelull,normal,590,738,Sunny/Clear,Cloudy,1,Grass,Fairy,true
+756,Shiinotic,normal,1063,1329,Sunny/Clear,Cloudy,1,Grass,Fairy,true
+757,Salandit,normal,641,801,Cloudy,Sunny/Clear,1,Poison,Fire,true
+758,Salazzle,normal,1416,1770,Cloudy,Sunny/Clear,1,Poison,Fire,true
+759,Stufful,normal,772,966,Partly Cloudy,Cloudy,1,Normal,Fighting,true
+760,Bewear,normal,1781,2226,Partly Cloudy,Cloudy,1,Normal,Fighting,true
+761,Bounsweet,normal,268,336,Sunny/Clear,None,1,Grass,None,true
+762,Steenee,normal,432,541,Sunny/Clear,None,1,Grass,None,true
+763,Tsareena,normal,1693,2117,Sunny/Clear,None,1,Grass,None,true
+764,Comfey,normal,1209,1511,Cloudy,None,1,Fairy,None,true
+765,Oranguru,normal,1400,1750,Partly Cloudy,Windy,1,Normal,Psychic,true
+766,Passimian,normal,1733,2166,Cloudy,None,1,Fighting,None,true
+767,Wimpod,normal,286,358,Rainy,None,1,Bug,Water,true
+768,Golisopod,normal,1807,2259,Rainy,None,1,Bug,Water,true
+769,Sandygast,normal,705,881,Fog,Sunny/Clear,1,Ghost,Ground,true
+770,Palossand,normal,1396,1745,Fog,Sunny/Clear,1,Ghost,Ground,true
+771,Pyukumuku,normal,784,980,Rainy,None,1,Water,None,true
+772,Type,null,1522,1903,Partly Cloudy,None,1,Normal,None,true
+773,Silvally,normal,1686,2107,Partly Cloudy,None,1,Normal,None,true
+774,Minior,red-meteor,881,1101,Partly Cloudy,Windy,1,Rock,Flying,true
+775,Komala,normal,1475,1844,Partly Cloudy,None,1,Normal,None,true
+776,Turtonator,normal,1270,1587,Sunny/Clear,Windy,1,Fire,Dragon,true
+777,Togedemaru,normal,1234,1543,Rainy,Snow,1,Electric,Steel,true
+778,Mimikyu,disguised,1271,1589,Fog,Cloudy,1,Ghost,Fairy,true
+779,Bruxish,normal,1365,1707,Rainy,Windy,1,Water,Psychic,true
+780,Drampa,normal,1665,2081,Partly Cloudy,Windy,1,Normal,Dragon,true
+781,Dhelmise,normal,1685,2107,Fog,Sunny/Clear,1,Ghost,Grass,true
+782,Jangmo O,normal,553,692,Windy,None,1,Dragon,None,true
+783,Hakamo O,normal,963,1204,Windy,Cloudy,1,Dragon,Fighting,true
+784,Kommo O,normal,1890,2363,Windy,Cloudy,5,Dragon,Fighting,true
+785,Tapu Koko,normal,1810,2263,Rainy,Cloudy,1,Electric,Fairy,true
+786,Tapu Lele,normal,1996,2496,Windy,Cloudy,5,Psychic,Fairy,true
+787,Tapu Bulu,normal,1953,2442,Sunny/Clear,Cloudy,5,Grass,Fairy,true
+788,Tapu Fini,normal,1632,2041,Rainy,Cloudy,1,Water,Fairy,true
+789,Cosmog,normal,247,309,Windy,None,1,Psychic,None,true
+790,Cosmoem,normal,467,583,Windy,None,1,Psychic,None,true
+791,Solgaleo,normal,2305,2882,Windy,Snow,5,Psychic,Steel,true
+792,Lunala,normal,2305,2882,Windy,Fog,5,Psychic,Ghost,true
+793,Nihilego,normal,2256,2821,Partly Cloudy,Cloudy,5,Rock,Poison,true
+794,Buzzwole,normal,1982,2478,Rainy,Cloudy,5,Bug,Fighting,true
+795,Pheromosa,normal,1624,2030,Rainy,Cloudy,1,Bug,Fighting,true
+796,Xurkitree,normal,2249,2812,Rainy,None,5,Electric,None,true
+797,Celesteela,normal,1772,2216,Snow,Windy,1,Steel,Flying,true
+798,Kartana,normal,2101,2626,Sunny/Clear,Snow,5,Grass,Steel,true
+799,Guzzlord,normal,1650,2062,Fog,Windy,1,Dark,Dragon,true
+800,Necrozma,normal,2104,2630,Windy,None,5,Psychic,None,true
+801,Magearna,normal,2066,2582,Snow,Cloudy,5,Steel,Fairy,true
+802,Marshadow,normal,2131,2664,Cloudy,Fog,5,Fighting,Ghost,true
+803,Poipole,normal,937,1171,Cloudy,None,1,Poison,None,true
+804,Naganadel,normal,1813,2266,Cloudy,Windy,1,Poison,Dragon,true
+805,Stakataka,normal,1882,2353,Partly Cloudy,Snow,5,Rock,Steel,true
+806,Blacephalon,normal,1884,2355,Sunny/Clear,Fog,5,Fire,Ghost,true
+807,Zeraora,normal,1953,2442,Rainy,None,5,Electric,None,true
+808,Meltan,normal,610,762,Snow,None,1,Steel,None,true
+809,Melmetal,normal,2042,2552,Snow,None,5,Steel,None,true
+810,Grookey,normal,620,775,Sunny/Clear,None,1,Grass,None,true
+811,Thwackey,normal,1072,1340,Sunny/Clear,None,1,Grass,None,true
+812,Rillaboom,normal,1899,2374,Sunny/Clear,None,5,Grass,None,true
+813,Scorbunny,normal,627,783,Sunny/Clear,None,1,Fire,None,true
+814,Raboot,normal,1042,1302,Sunny/Clear,None,1,Fire,None,true
+815,Cinderace,normal,1724,2156,Sunny/Clear,None,1,Fire,None,true
+816,Sobble,normal,627,783,Rainy,None,1,Water,None,true
+817,Drizzile,normal,1082,1353,Rainy,None,1,Water,None,true
+818,Inteleon,normal,1693,2117,Rainy,None,1,Water,None,true
+819,Skwovet,normal,539,674,Partly Cloudy,None,1,Normal,None,true
+820,Greedent,normal,1354,1693,Partly Cloudy,None,1,Normal,None,true
+821,Rookidee,normal,380,476,Windy,None,1,Flying,None,true
+822,Corvisquire,normal,779,974,Windy,None,1,Flying,None,true
+823,Corviknight,normal,1404,1755,Windy,Snow,1,Flying,Steel,true
+824,Blipbug,normal,204,256,Rainy,None,1,Bug,None,true
+825,Dottler,normal,588,735,Rainy,Windy,1,Bug,Psychic,true
+826,Orbeetle,normal,1270,1588,Rainy,Windy,1,Bug,Psychic,true
+827,Nickit,normal,408,510,Fog,None,1,Dark,None,true
+828,Thievul,normal,1221,1526,Fog,None,1,Dark,None,true
+829,Gossifleur,normal,384,480,Sunny/Clear,None,1,Grass,None,true
+830,Eldegoss,normal,1140,1425,Sunny/Clear,None,1,Grass,None,true
+831,Wooloo,normal,403,504,Partly Cloudy,None,1,Normal,None,true
+832,Dubwool,normal,1252,1565,Partly Cloudy,None,1,Normal,None,true
+833,Chewtle,normal,567,709,Rainy,None,1,Water,None,true
+834,Drednaw,normal,1622,2027,Rainy,Partly Cloudy,1,Water,Rock,true
+835,Yamper,normal,450,562,Rainy,None,1,Electric,None,true
+836,Boltund,normal,1243,1554,Rainy,None,1,Electric,None,true
+837,Rolycoly,normal,349,437,Partly Cloudy,None,1,Rock,None,true
+838,Carkol,normal,864,1080,Partly Cloudy,Sunny/Clear,1,Rock,Fire,true
+839,Coalossal,normal,1344,1680,Partly Cloudy,Sunny/Clear,1,Rock,Fire,true
+840,Applin,normal,408,510,Sunny/Clear,Windy,1,Grass,Dragon,true
+841,Flapple,normal,1409,1761,Sunny/Clear,Windy,1,Grass,Dragon,true
+842,Appletun,normal,1401,1751,Sunny/Clear,Windy,1,Grass,Dragon,true
+843,Silicobra,normal,617,772,Sunny/Clear,None,1,Ground,None,true
+844,Sandaconda,normal,1594,1993,Sunny/Clear,None,1,Ground,None,true
+845,Cramorant,normal,1224,1530,Windy,Rainy,1,Flying,Water,true
+846,Arrokuda,normal,516,645,Rainy,None,1,Water,None,true
+847,Barraskewda,normal,1518,1897,Rainy,None,1,Water,None,true
+848,Toxel,normal,415,519,Rainy,Cloudy,1,Electric,Poison,true
+849,Toxtricity,amped,1486,1858,Rainy,Cloudy,1,Electric,Poison,true
+850,Sizzlipede,normal,599,749,Sunny/Clear,Rainy,1,Fire,Bug,true
+851,Centiskorch,normal,1708,2136,Sunny/Clear,Rainy,1,Fire,Bug,true
+852,Clobbopus,normal,650,812,Cloudy,None,1,Fighting,None,true
+853,Grapploct,normal,1522,1903,Cloudy,None,1,Fighting,None,true
+854,Sinistea,normal,650,813,Fog,None,1,Ghost,None,true
+855,Polteageist,normal,1747,2185,Fog,None,1,Ghost,None,true
+856,Hatenna,normal,492,615,Windy,None,1,Psychic,None,true
+857,Hattrem,normal,934,1167,Windy,None,1,Psychic,None,true
+858,Hatterene,normal,1616,2020,Windy,Cloudy,1,Psychic,Fairy,true
+859,Impidimp,normal,461,576,Fog,Cloudy,1,Dark,Fairy,true
+860,Morgrem,normal,824,1030,Fog,Cloudy,1,Dark,Fairy,true
+861,Grimmsnarl,normal,1628,2036,Fog,Cloudy,1,Dark,Fairy,true
+862,Obstagoon,normal,1515,1894,Fog,Partly Cloudy,1,Dark,Normal,true
+863,Perrserker,normal,1363,1704,Snow,None,1,Steel,None,true
+864,Cursola,normal,1750,2188,Fog,None,1,Ghost,None,true
+865,Sirfetchd,normal,1706,2132,Cloudy,None,1,Fighting,None,true
+866,Mr,rime,1615,2019,Snow,Windy,1,Ice,Psychic,true
+867,Runerigus,normal,1299,1624,Sunny/Clear,Fog,1,Ground,Ghost,true
+868,Milcery,normal,474,592,Cloudy,None,1,Fairy,None,true
+869,Alcremie,normal,1532,1915,Cloudy,None,1,Fairy,None,true
+870,Falinks,normal,1347,1683,Cloudy,None,1,Fighting,None,true
+871,Pincurchin,normal,1103,1379,Rainy,None,1,Electric,None,true
+872,Snom,normal,302,377,Snow,Rainy,1,Ice,Bug,true
+873,Frosmoth,normal,1558,1948,Snow,Rainy,1,Ice,Bug,true
+874,Stonjourner,normal,1839,2299,Partly Cloudy,None,5,Rock,None,true
+875,Eiscue,ice,1180,1475,Snow,None,1,Ice,None,true
+876,Indeedee,male,1396,1745,Windy,Partly Cloudy,1,Psychic,Normal,true
+877,Morpeko,full-belly,1110,1387,Rainy,Fog,1,Electric,Dark,true
+878,Cufant,normal,787,983,Snow,None,1,Steel,None,true
+879,Copperajah,normal,1702,2128,Snow,None,1,Steel,None,true
+880,Dracozolt,normal,1498,1872,Rainy,Windy,1,Electric,Dragon,true
+881,Arctozolt,normal,1466,1833,Rainy,Snow,1,Electric,Ice,true
+882,Dracovish,normal,1428,1786,Rainy,Windy,1,Water,Dragon,true
+883,Arctovish,normal,1398,1748,Rainy,Snow,1,Water,Ice,true
+884,Duraludon,normal,1753,2191,Snow,Windy,1,Steel,Dragon,true
+885,Dreepy,normal,438,548,Windy,Fog,1,Dragon,Ghost,true
+886,Drakloak,normal,943,1180,Windy,Fog,1,Dragon,Ghost,true
+887,Dragapult,normal,2018,2523,Windy,Fog,5,Dragon,Ghost,true
+888,Zacian,normal,2041,2552,Cloudy,None,5,Fairy,None,true
+889,Zamazenta,normal,2041,2552,Cloudy,None,5,Fighting,None,true
+890,Eternatus,normal,2530,3163,Cloudy,Windy,5,Poison,Dragon,true
+891,Kubfu,normal,970,1212,Cloudy,None,1,Fighting,None,true
+892,Urshifu,single-strike,2060,2576,Cloudy,Fog,5,Fighting,Dark,true
+893,Zarude,normal,2190,2738,Fog,Sunny/Clear,5,Dark,Grass,true
+894,Regieleki,normal,1602,2002,Rainy,None,1,Electric,None,true
+895,Regidrago,normal,1699,2124,Windy,None,1,Dragon,None,true
+896,Glastrier,normal,2226,2782,Snow,None,5,Ice,None,true
+897,Spectrier,normal,1940,2425,Fog,None,5,Ghost,None,true
+898,Calyrex,normal,1301,1627,Windy,Sunny/Clear,1,Psychic,Grass,true
+899,Wyrdeer,normal,1561,1952,Partly Cloudy,Windy,1,Normal,Psychic,true
+900,Kleavor,normal,1798,2247,Rainy,Partly Cloudy,1,Bug,Rock,true
+901,Ursaluna,normal,2202,2753,Sunny/Clear,Partly Cloudy,5,Ground,Normal,true
+902,Basculegion,male,1731,2164,Rainy,Fog,1,Water,Ghost,true
+903,Sneasler,normal,1841,2302,Cloudy,None,5,Fighting,Poison,true
+904,Overqwil,normal,1683,2104,Fog,Cloudy,1,Dark,Poison,true
+905,Enamorus,incarnate,1957,2447,Cloudy,Windy,5,Fairy,Flying,true
+906,Sprigatito,normal,579,725,Sunny/Clear,None,1,Grass,None,true
+907,Floragato,normal,959,1199,Sunny/Clear,None,1,Grass,None,true
+908,Meowscarada,normal,1614,2017,Sunny/Clear,Fog,1,Grass,Dark,true
+909,Fuecoco,normal,644,805,Sunny/Clear,None,1,Fire,None,true
+910,Crocalor,normal,1106,1383,Sunny/Clear,None,1,Fire,None,true
+911,Skeledirge,normal,1729,2162,Sunny/Clear,Fog,1,Fire,Ghost,true
+912,Quaxly,normal,614,768,Rainy,None,1,Water,None,true
+913,Quaxwell,normal,1014,1268,Rainy,None,1,Water,None,true
+914,Quaquaval,normal,1724,2155,Rainy,Cloudy,1,Water,Fighting,true
+915,Lechonk,normal,418,523,Partly Cloudy,None,1,Normal,None,true
+916,Oinkologne,male,1490,1863,Partly Cloudy,None,1,Normal,None,true
+917,Tarountula,normal,326,408,Rainy,None,1,Bug,None,true
+918,Spidops,normal,964,1205,Rainy,None,1,Bug,None,true
+919,Nymble,normal,338,423,Rainy,None,1,Bug,None,true
+920,Lokix,normal,1323,1655,Rainy,Fog,1,Bug,Dark,true
+921,Pawmi,normal,363,454,Rainy,None,1,Electric,None,true
+922,Pawmo,normal,742,928,Rainy,Cloudy,1,Electric,Fighting,true
+923,Pawmot,normal,1505,1882,Rainy,Cloudy,1,Electric,Fighting,true
+924,Tandemaus,normal,509,636,Partly Cloudy,None,1,Normal,None,true
+925,Maushold,family-of-four,1134,1418,Partly Cloudy,None,1,Normal,None,true
+926,Fidough,normal,563,703,Cloudy,None,1,Fairy,None,true
+927,Dachsbun,normal,1198,1497,Cloudy,None,1,Fairy,None,true
+928,Smoliv,normal,488,610,Sunny/Clear,Partly Cloudy,1,Grass,Normal,true
+929,Dolliv,normal,818,1023,Sunny/Clear,Partly Cloudy,1,Grass,Normal,true
+930,Arboliva,normal,1691,2113,Sunny/Clear,Partly Cloudy,1,Grass,Normal,true
+931,Squawkabilly,green-plumage,1127,1409,Partly Cloudy,Windy,1,Normal,Flying,true
+932,Nacli,normal,552,690,Partly Cloudy,None,1,Rock,None,true
+933,Naclstack,normal,738,923,Partly Cloudy,None,1,Rock,None,true
+934,Garganacl,normal,1549,1936,Partly Cloudy,None,1,Rock,None,true
+935,Charcadet,normal,418,523,Sunny/Clear,None,1,Fire,None,true
+936,Armarouge,normal,1834,2292,Sunny/Clear,Windy,5,Fire,Psychic,true
+937,Ceruledge,normal,1812,2265,Sunny/Clear,Fog,1,Fire,Ghost,true
+938,Tadbulb,normal,520,651,Rainy,None,1,Electric,None,true
+939,Bellibolt,normal,1521,1902,Rainy,None,1,Electric,None,true
+940,Wattrel,normal,472,590,Rainy,Windy,1,Electric,Flying,true
+941,Kilowattrel,normal,1396,1745,Rainy,Windy,1,Electric,Flying,true
+942,Maschiff,normal,799,999,Fog,None,1,Dark,None,true
+943,Mabosstiff,normal,1693,2117,Fog,None,1,Dark,None,true
+944,Shroodle,normal,531,664,Cloudy,Partly Cloudy,1,Poison,Normal,true
+945,Grafaiai,normal,1293,1617,Cloudy,Partly Cloudy,1,Poison,Normal,true
+946,Bramblin,normal,501,626,Sunny/Clear,Fog,1,Grass,Ghost,true
+947,Brambleghast,normal,1387,1734,Sunny/Clear,Fog,1,Grass,Ghost,true
+948,Toedscool,normal,594,743,Sunny/Clear,None,1,Ground,Grass,true
+949,Toedscruel,normal,1384,1730,Sunny/Clear,None,1,Ground,Grass,true
+950,Klawf,normal,1373,1716,Partly Cloudy,None,1,Rock,None,true
+952,Scovillain,normal,1324,1655,Sunny/Clear,None,1,Grass,Fire,true
+953,Rellor,normal,466,582,Rainy,None,1,Bug,None,true
+954,Rabsca,normal,1499,1874,Rainy,Windy,1,Bug,Psychic,true
+955,Flittle,normal,401,501,Windy,None,1,Psychic,None,true
+956,Espathra,normal,1415,1769,Windy,None,1,Psychic,None,true
+957,Tinkatink,normal,491,614,Cloudy,Snow,1,Fairy,Steel,true
+958,Tinkatuff,normal,746,933,Cloudy,Snow,1,Fairy,Steel,true
+959,Tinkaton,normal,1286,1607,Cloudy,Snow,1,Fairy,Steel,true
+960,Wiglett,normal,328,410,Rainy,None,1,Water,None,true
+961,Wugtrio,normal,1082,1353,Rainy,None,1,Water,None,true
+962,Bombirdier,normal,1421,1777,Windy,Fog,1,Flying,Dark,true
+963,Finizen,normal,499,624,Rainy,None,1,Water,None,true
+964,Palafin,zero,1101,1376,Rainy,None,1,Water,None,true
+965,Varoom,normal,650,813,Snow,Cloudy,1,Steel,Poison,true
+966,Revavroom,normal,1686,2108,Snow,Cloudy,1,Steel,Poison,true
+967,Cyclizar,normal,1345,1681,Windy,Partly Cloudy,1,Dragon,Normal,true
+968,Orthworm,normal,1313,1642,Snow,None,1,Steel,None,true
+969,Glimmet,normal,959,1200,Partly Cloudy,Cloudy,1,Rock,Poison,true
+970,Glimmora,normal,1870,2338,Partly Cloudy,Cloudy,5,Rock,Poison,true
+971,Greavard,normal,580,726,Fog,None,1,Ghost,None,true
+972,Houndstone,normal,1436,1795,Fog,None,1,Ghost,None,true
+973,Flamigo,normal,1575,1969,Windy,Cloudy,1,Flying,Fighting,true
+974,Cetoddle,normal,742,928,Snow,None,1,Ice,None,true
+975,Cetitan,normal,1778,2223,Snow,None,1,Ice,None,true
+976,Veluza,normal,1392,1740,Rainy,Windy,1,Water,Psychic,true
+977,Dondozo,normal,1712,2140,Rainy,None,1,Water,None,true
+978,Tatsugiri,curly,1569,1962,Windy,Rainy,1,Dragon,Water,true
+979,Annihilape,normal,1867,2334,Cloudy,Fog,5,Fighting,Ghost,true
+980,Clodsire,normal,1115,1394,Cloudy,Sunny/Clear,1,Poison,Ground,true
+981,Farigiraf,normal,1629,2036,Partly Cloudy,Windy,1,Normal,Psychic,true
+982,Dudunsparce,two-segment,1565,1957,Partly Cloudy,None,1,Normal,None,true
+983,Kingambit,normal,2065,2581,Fog,Snow,5,Dark,Steel,true
+984,Great,tusk,1927,2409,Sunny/Clear,Cloudy,5,Ground,Fighting,true
+985,Scream,tail,1414,1768,Cloudy,Windy,1,Fairy,Psychic,true
+986,Brute,bonnet,2031,2539,Sunny/Clear,Fog,5,Grass,Dark,true
+987,Flutter,mane,2112,2640,Fog,Cloudy,5,Ghost,Fairy,true
+988,Slither,wing,2073,2591,Rainy,Cloudy,5,Bug,Fighting,true
+989,Sandy,shocks,1954,2443,Rainy,Sunny/Clear,5,Electric,Ground,true
+990,Iron,treads,1955,2444,Sunny/Clear,Snow,5,Ground,Steel,true
+991,Iron,bundle,1924,2406,Snow,Rainy,5,Ice,Water,true
+992,Iron,hands,1967,2460,Cloudy,Rainy,5,Fighting,Electric,true
+993,Iron,jugulis,1985,2482,Fog,Windy,5,Dark,Flying,true
+994,Iron,moth,2197,2746,Sunny/Clear,Cloudy,5,Fire,Poison,true
+995,Iron,thorns,2148,2685,Partly Cloudy,Rainy,5,Rock,Electric,true
+996,Frigibax,normal,712,891,Windy,Snow,1,Dragon,Ice,true
+997,Arctibax,normal,1195,1494,Windy,Snow,1,Dragon,Ice,true
+998,Baxcalibur,normal,2026,2533,Windy,Snow,5,Dragon,Ice,true
+999,Gimmighoul,normal,679,849,Fog,None,1,Ghost,None,true
+1000,Gholdengo,normal,2009,2512,Snow,Fog,5,Steel,Ghost,true
+1001,Wo Chien,normal,1678,2098,Fog,Sunny/Clear,1,Dark,Grass,true
+1002,Chien Pao,normal,1902,2378,Fog,Snow,5,Dark,Ice,true
+1003,Ting Lu,normal,2018,2523,Fog,Sunny/Clear,5,Dark,Ground,true
+1004,Chi Yu,normal,1975,2469,Fog,Sunny/Clear,5,Dark,Fire,true
+1005,Roaring,moon,2016,2521,Windy,Fog,5,Dragon,Dark,true
+1006,Iron,valiant,1993,2491,Cloudy,None,5,Fairy,Fighting,true
+1007,Koraidon,normal,2270,2837,Cloudy,Windy,5,Fighting,Dragon,true
+1008,Miraidon,normal,2270,2837,Rainy,Windy,5,Electric,Dragon,true
+1009,Walking,wake,2125,2657,Rainy,Windy,5,Water,Dragon,true
+1010,Iron,leaves,2200,2750,Sunny/Clear,Windy,5,Grass,Psychic,true
+1011,Dipplin,normal,1355,1694,Sunny/Clear,Windy,1,Grass,Dragon,true
+1012,Poltchageist,normal,650,813,Sunny/Clear,Fog,1,Grass,Ghost,true
+1013,Sinistcha,normal,1690,2112,Sunny/Clear,Fog,1,Grass,Ghost,true
+1014,Okidogi,normal,2028,2535,Cloudy,None,5,Poison,Fighting,true
+1015,Munkidori,normal,1993,2491,Cloudy,Windy,5,Poison,Psychic,true
+1016,Fezandipiti,normal,1646,2058,Cloudy,None,1,Poison,Fairy,true
+1017,Ogerpon,normal,1900,2375,Sunny/Clear,None,5,Grass,None,true
+1018,Archaludon,normal,2137,2671,Snow,Windy,5,Steel,Dragon,true
+1019,Hydrapple,normal,1848,2310,Sunny/Clear,Windy,5,Grass,Dragon,true
+1020,Gouging,fire,2102,2628,Sunny/Clear,Windy,5,Fire,Dragon,true
+1021,Raging,bolt,1926,2408,Rainy,Windy,5,Electric,Dragon,true
+1022,Iron,boulder,2124,2655,Partly Cloudy,Windy,5,Rock,Psychic,true
+1023,Iron,crown,2103,2629,Snow,Windy,5,Steel,Psychic,true
+1024,Terapagos,normal,1005,1257,Partly Cloudy,None,1,Normal,None,true
+1025,Pecharunt,normal,1756,2196,Cloudy,Fog,1,Poison,Ghost,true
+10001,Deoxys,attack,1474,1842,Windy,None,5,Psychic,None,true
+10002,Deoxys,defense,1299,1624,Windy,None,5,Psychic,None,true
+10003,Deoxys,speed,1645,2056,Windy,None,5,Psychic,None,true
+10004,Wormadam,sandy,1013,1267,Rainy,Sunny/Clear,5,Bug,Ground,true
+10005,Wormadam,trash,910,1138,Rainy,Snow,5,Bug,Steel,true
+10006,Shaymin,sky,2052,2566,Sunny/Clear,Windy,5,Grass,Flying,true
+10007,Giratina,origin,2105,2631,Fog,Windy,5,Ghost,Dragon,true
+10008,Rotom,heat,1474,1842,Rainy,Sunny/Clear,5,Electric,Fire,true
+10009,Rotom,wash,1474,1842,Rainy,None,5,Electric,Water,true
+10010,Rotom,frost,1474,1842,Rainy,Snow,5,Electric,Ice,true
+10011,Rotom,fan,1474,1842,Rainy,Windy,5,Electric,Flying,true
+10012,Rotom,mow,1474,1842,Rainy,Sunny/Clear,5,Electric,Grass,true
+10013,Castform,sunny,932,1165,Sunny/Clear,None,5,Fire,None,true
+10014,Castform,rainy,932,1165,Rainy,None,5,Water,None,true
+10015,Castform,snowy,932,1165,Snow,None,5,Ice,None,true
+10016,Basculin,blue-striped,1194,1493,Rainy,None,5,Water,None,true
+10017,Darmanitan,zen,2136,2670,Sunny/Clear,Windy,5,Fire,Psychic,true
+10018,Meloetta,pirouette,2237,2796,Partly Cloudy,Cloudy,5,Normal,Fighting,true
+10019,Tornadus,therian,1837,2296,Windy,None,5,Flying,None,true
+10020,Thundurus,therian,2091,2614,Rainy,Windy,5,Electric,Flying,true
+10021,Landorus,therian,2241,2801,Sunny/Clear,Windy,5,Ground,Flying,true
+10022,Kyurem,black,2626,3283,Windy,Snow,5,Dragon,Ice,true
+10023,Kyurem,white,2626,3283,Windy,Snow,5,Dragon,Ice,true
+10024,Keldeo,resolute,2113,2641,Rainy,Cloudy,5,Water,Fighting,true
+10025,Meowstic,female,1213,1517,Windy,None,5,Psychic,None,true
+10026,Aegislash,blade,1413,1766,Snow,Fog,5,Steel,Ghost,true
+10027,Pumpkaboo,small,686,858,Fog,Sunny/Clear,5,Ghost,Grass,true
+10028,Pumpkaboo,large,711,888,Fog,Sunny/Clear,5,Ghost,Grass,true
+10029,Pumpkaboo,super,714,893,Fog,Sunny/Clear,5,Ghost,Grass,true
+10030,Gourgeist,small,1288,1610,Fog,Sunny/Clear,5,Ghost,Grass,true
+10031,Gourgeist,large,1440,1801,Fog,Sunny/Clear,5,Ghost,Grass,true
+10032,Gourgeist,super,1504,1880,Fog,Sunny/Clear,5,Ghost,Grass,true
+10033,Venusaur,mega,2113,2641,Sunny/Clear,Cloudy,5,Grass,Poison,true
+10034,Charizard,mega-x,2200,2750,Sunny/Clear,Windy,5,Fire,Dragon,true
+10035,Charizard,mega-y,2129,2661,Sunny/Clear,Windy,5,Fire,Flying,true
+10036,Blastoise,mega,2252,2815,Rainy,None,5,Water,None,true
+10037,Alakazam,mega,2158,2698,Windy,None,5,Psychic,None,true
+10038,Gengar,mega,2078,2597,Fog,Cloudy,5,Ghost,Poison,true
+10039,Kangaskhan,mega,2200,2750,Partly Cloudy,None,5,Normal,None,true
+10040,Pinsir,mega,2002,2503,Rainy,Windy,5,Bug,Flying,true
+10041,Gyarados,mega,2262,2827,Rainy,Fog,5,Water,Dark,true
+10042,Aerodactyl,mega,1973,2467,Partly Cloudy,Windy,5,Rock,Flying,true
+10043,Mewtwo,mega-x,3102,3878,Windy,Cloudy,5,Psychic,Fighting,true
+10044,Mewtwo,mega-y,3250,4062,Windy,None,5,Psychic,None,true
+10045,Ampharos,mega,2035,2543,Rainy,Windy,5,Electric,Dragon,true
+10046,Scizor,mega,1962,2453,Rainy,Snow,5,Bug,Steel,true
+10047,Heracross,mega,2304,2881,Rainy,Cloudy,5,Bug,Fighting,true
+10048,Houndoom,mega,2195,2744,Fog,Sunny/Clear,5,Dark,Fire,true
+10049,Tyranitar,mega,2555,3194,Partly Cloudy,Fog,5,Rock,Dark,true
+10050,Blaziken,mega,1991,2489,Sunny/Clear,Cloudy,5,Fire,Fighting,true
+10051,Gardevoir,mega,2161,2702,Windy,Cloudy,5,Psychic,Fairy,true
+10052,Mawile,mega,1360,1700,Snow,Cloudy,5,Steel,Fairy,true
+10053,Aggron,mega,1996,2496,Snow,None,5,Steel,None,true
+10054,Medicham,mega,1425,1782,Cloudy,Windy,5,Fighting,Psychic,true
+10055,Manectric,mega,2046,2557,Rainy,None,5,Electric,None,true
+10056,Banette,mega,2053,2567,Fog,None,5,Ghost,None,true
+10057,Absol,mega,1886,2358,Fog,None,5,Dark,None,true
+10058,Garchomp,mega,2586,3233,Windy,Sunny/Clear,5,Dragon,Ground,true
+10059,Lucario,mega,2186,2733,Cloudy,Snow,5,Fighting,Steel,true
+10060,Abomasnow,mega,1946,2432,Sunny/Clear,Snow,5,Grass,Ice,true
+10061,Floette,eternal,1953,2441,Cloudy,None,5,Fairy,None,true
+10062,Latias,mega,2296,2870,Windy,None,5,Dragon,Psychic,true
+10063,Latios,mega,2395,2994,Windy,None,5,Dragon,Psychic,true
+10064,Swampert,mega,2109,2636,Rainy,Sunny/Clear,5,Water,Ground,true
+10065,Sceptile,mega,1942,2428,Sunny/Clear,Windy,5,Grass,Dragon,true
+10066,Sableye,mega,1110,1387,Fog,None,5,Dark,Ghost,true
+10067,Altaria,mega,1807,2259,Windy,Cloudy,5,Dragon,Fairy,true
+10068,Gallade,mega,2166,2708,Windy,Cloudy,5,Psychic,Fighting,true
+10069,Audino,mega,1442,1802,Partly Cloudy,Cloudy,5,Normal,Fairy,true
+10070,Sharpedo,mega,1870,2338,Rainy,Fog,5,Water,Dark,true
+10071,Slowbro,mega,2145,2682,Rainy,Windy,5,Water,Psychic,true
+10072,Steelix,mega,2097,2622,Snow,Sunny/Clear,5,Steel,Ground,true
+10073,Pidgeot,mega,2102,2628,Partly Cloudy,Windy,5,Normal,Flying,true
+10074,Glalie,mega,1845,2307,Snow,None,5,Ice,None,true
+10075,Diancie,mega,2083,2604,Partly Cloudy,Cloudy,5,Rock,Fairy,true
+10076,Metagross,mega,2349,2937,Snow,Windy,5,Steel,Psychic,true
+10077,Kyogre,primal,2351,2939,Rainy,None,5,Water,None,true
+10078,Groudon,primal,2351,2939,Sunny/Clear,None,5,Ground,Fire,true
+10079,Rayquaza,mega,2888,3611,Windy,None,5,Dragon,Flying,true
+10081,Pikachu,belle,536,670,Rainy,None,5,Electric,None,true
+10083,Pikachu,phd,536,670,Rainy,None,5,Electric,None,true
+10084,Pikachu,libre,536,670,Rainy,None,5,Electric,None,true
+10086,Hoopa,unbound,2282,2853,Windy,Fog,5,Psychic,Dark,true
+10087,Camerupt,mega,1840,2300,Sunny/Clear,None,5,Fire,Ground,true
+10088,Lopunny,mega,2140,2675,Partly Cloudy,Cloudy,5,Normal,Fighting,true
+10089,Salamence,mega,2405,3007,Windy,None,5,Dragon,Flying,true
+10090,Beedrill,mega,1933,2416,Rainy,Cloudy,5,Bug,Poison,true
+10091,Rattata,alola,419,524,Fog,Partly Cloudy,5,Dark,Normal,true
+10092,Raticate,alola,974,1217,Fog,Partly Cloudy,5,Dark,Normal,true
+10100,Raichu,alola,1306,1633,Rainy,Windy,5,Electric,Psychic,true
+10101,Sandshrew,alola,739,924,Snow,None,5,Ice,Steel,true
+10102,Sandslash,alola,1390,1737,Snow,None,5,Ice,Steel,true
+10103,Vulpix,alola,504,631,Snow,None,5,Ice,None,true
+10104,Ninetales,alola,1319,1649,Snow,Cloudy,5,Ice,Fairy,true
+10105,Diglett,alola,389,486,Sunny/Clear,Snow,5,Ground,Steel,true
+10106,Dugtrio,alola,1084,1355,Sunny/Clear,Snow,5,Ground,Steel,true
+10107,Meowth,alola,455,569,Fog,None,5,Dark,None,true
+10108,Persian,alola,1012,1265,Fog,None,5,Dark,None,true
+10109,Geodude,alola,739,923,Partly Cloudy,Rainy,5,Rock,Electric,true
+10110,Graveler,alola,1084,1355,Partly Cloudy,Rainy,5,Rock,Electric,true
+10111,Golem,alola,1685,2106,Partly Cloudy,Rainy,5,Rock,Electric,true
+10112,Grimer,alola,785,981,Cloudy,Fog,5,Poison,Dark,true
+10113,Muk,alola,1575,1969,Cloudy,Fog,5,Poison,Dark,true
+10114,Exeggutor,alola,1722,2153,Sunny/Clear,Windy,5,Grass,Dragon,true
+10115,Marowak,alola,1048,1311,Sunny/Clear,Fog,5,Fire,Ghost,true
+10116,Greninja,battle-bond,1516,1896,Rainy,Fog,5,Water,Dark,true
+10117,Greninja,ash,2276,2845,Rainy,Fog,5,Water,Dark,true
+10118,Zygarde,10-power-construct,1357,1696,Windy,Sunny/Clear,5,Dragon,Ground,true
+10119,Zygarde,50-power-construct,1948,2436,Windy,Sunny/Clear,5,Dragon,Ground,true
+10120,Zygarde,complete,2126,2658,Windy,Sunny/Clear,5,Dragon,Ground,true
+10123,Oricorio,pom-pom,1333,1667,Rainy,Windy,5,Electric,Flying,true
+10124,Oricorio,pau,1333,1667,Windy,None,5,Psychic,Flying,true
+10125,Oricorio,sensu,1333,1667,Fog,Windy,5,Ghost,Flying,true
+10126,Lycanroc,midnight,1568,1960,Partly Cloudy,None,5,Rock,None,true
+10127,Wishiwashi,school,1847,2309,Rainy,None,5,Water,None,true
+10130,Minior,orange-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10131,Minior,yellow-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10132,Minior,green-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10133,Minior,blue-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10134,Minior,indigo-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10135,Minior,violet-meteor,881,1101,Partly Cloudy,Windy,5,Rock,Flying,true
+10136,Minior,red,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10137,Minior,orange,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10138,Minior,yellow,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10139,Minior,green,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10140,Minior,blue,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10141,Minior,indigo,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10142,Minior,violet,1310,1637,Partly Cloudy,Windy,5,Rock,Flying,true
+10143,Mimikyu,busted,1271,1589,Fog,Cloudy,5,Ghost,Fairy,true
+10147,Magearna,original,2066,2582,Snow,Cloudy,5,Steel,Fairy,true
+10151,Rockruff,own-tempo,543,679,Partly Cloudy,None,5,Rock,None,true
+10152,Lycanroc,dusk,1543,1929,Partly Cloudy,None,5,Rock,None,true
+10155,Necrozma,dusk,2336,2921,Windy,Snow,5,Psychic,Steel,true
+10156,Necrozma,dawn,2336,2921,Windy,Fog,5,Psychic,Ghost,true
+10157,Necrozma,ultra,2669,3337,Windy,None,5,Psychic,Dragon,true
+10161,Meowth,galar,591,739,Snow,None,5,Steel,None,true
+10162,Ponyta,galar,969,1212,Windy,None,5,Psychic,None,true
+10163,Rapidash,galar,1406,1757,Windy,Cloudy,5,Psychic,Fairy,true
+10164,Slowpoke,galar,700,876,Windy,None,5,Psychic,None,true
+10165,Slowbro,galar,1397,1746,Cloudy,Windy,5,Poison,Psychic,true
+10166,Farfetchd,galar,956,1196,Cloudy,None,5,Fighting,None,true
+10167,Weezing,galar,1310,1637,Cloudy,None,5,Poison,Fairy,true
+10168,Mr,mime-galar,1181,1477,Snow,Windy,5,Ice,Psychic,true
+10169,Articuno,galar,2051,2564,Windy,None,5,Psychic,Flying,true
+10170,Zapdos,galar,2027,2534,Cloudy,Windy,5,Fighting,Flying,true
+10171,Moltres,galar,1809,2262,Fog,Windy,5,Dark,Flying,true
+10172,Slowking,galar,1552,1941,Cloudy,Windy,5,Poison,Psychic,true
+10173,Corsola,galar,855,1069,Fog,None,5,Ghost,None,true
+10174,Zigzagoon,galar,290,363,Fog,Partly Cloudy,5,Dark,Normal,true
+10175,Linoone,galar,949,1187,Fog,Partly Cloudy,5,Dark,Normal,true
+10176,Darumaka,galar,823,1030,Snow,None,5,Ice,None,true
+10177,Darmanitan,galar-standard,1774,2218,Snow,None,5,Ice,None,true
+10178,Darmanitan,galar-zen,2231,2789,Snow,Sunny/Clear,5,Ice,Fire,true
+10179,Yamask,galar,561,701,Sunny/Clear,Fog,5,Ground,Ghost,true
+10180,Stunfisk,galar,1235,1544,Sunny/Clear,Snow,5,Ground,Steel,true
+10181,Zygarde,10,1357,1696,Windy,Sunny/Clear,5,Dragon,Ground,true
+10182,Cramorant,gulping,1224,1530,Windy,Rainy,5,Flying,Water,true
+10183,Cramorant,gorging,1224,1530,Windy,Rainy,5,Flying,Water,true
+10184,Toxtricity,low-key,1486,1858,Rainy,Cloudy,5,Electric,Poison,true
+10185,Eiscue,noice,1165,1457,Snow,None,5,Ice,None,true
+10186,Indeedee,female,1370,1712,Windy,Partly Cloudy,5,Psychic,Normal,true
+10187,Morpeko,hangry,1110,1387,Rainy,Fog,5,Electric,Dark,true
+10188,Zacian,crowned,2541,3177,Cloudy,Snow,5,Fairy,Steel,true
+10189,Zamazenta,crowned,2176,2721,Cloudy,Snow,5,Fighting,Steel,true
+10191,Urshifu,rapid-strike,2060,2576,Cloudy,Rainy,5,Fighting,Water,true
+10192,Zarude,dada,2190,2738,Fog,Sunny/Clear,5,Dark,Grass,true
+10193,Calyrex,ice,2424,3031,Windy,Snow,5,Psychic,Ice,true
+10194,Calyrex,shadow,2601,3252,Windy,Fog,5,Psychic,Ghost,true
+10229,Growlithe,hisui,755,944,Sunny/Clear,Partly Cloudy,5,Fire,Rock,true
+10230,Arcanine,hisui,1797,2247,Sunny/Clear,Partly Cloudy,5,Fire,Rock,true
+10231,Voltorb,hisui,577,721,Rainy,Sunny/Clear,5,Electric,Grass,true
+10232,Electrode,hisui,1228,1535,Rainy,Sunny/Clear,5,Electric,Grass,true
+10233,Typhlosion,hisui,1710,2138,Sunny/Clear,Fog,5,Fire,Ghost,true
+10234,Qwilfish,hisui,1220,1526,Fog,Cloudy,5,Dark,Poison,true
+10235,Sneasel,hisui,1172,1465,Cloudy,None,5,Fighting,Poison,true
+10236,Samurott,hisui,1601,2001,Rainy,Fog,5,Water,Dark,true
+10237,Lilligant,hisui,1435,1794,Sunny/Clear,Cloudy,5,Grass,Fighting,true
+10238,Zorua,hisui,687,859,Partly Cloudy,Fog,5,Normal,Ghost,true
+10239,Zoroark,hisui,1494,1868,Partly Cloudy,Fog,5,Normal,Ghost,true
+10240,Braviary,hisui,1608,2010,Windy,None,5,Psychic,Flying,true
+10241,Sliggoo,hisui,1106,1382,Snow,Windy,5,Steel,Dragon,true
+10242,Goodra,hisui,1897,2372,Snow,Windy,5,Steel,Dragon,true
+10243,Avalugg,hisui,1975,2469,Snow,Partly Cloudy,5,Ice,Rock,true
+10244,Decidueye,hisui,1655,2069,Sunny/Clear,Cloudy,5,Grass,Fighting,true
+10245,Dialga,origin,2337,2921,Snow,Windy,5,Steel,Dragon,true
+10246,Palkia,origin,2361,2951,Rainy,Windy,5,Water,Dragon,true
+10247,Basculin,white-striped,1194,1493,Rainy,None,5,Water,None,true
+10248,Basculegion,female,1597,1996,Rainy,Fog,5,Water,Ghost,true
+10249,Enamorus,therian,1935,2420,Cloudy,Windy,5,Fairy,Flying,true
+10250,Tauros,paldea-combat-breed,1621,2026,Cloudy,None,5,Fighting,None,true
+10251,Tauros,paldea-blaze-breed,1621,2026,Cloudy,Sunny/Clear,5,Fighting,Fire,true
+10252,Tauros,paldea-aqua-breed,1621,2026,Cloudy,Rainy,5,Fighting,Water,true
+10253,Wooper,paldea,366,458,Cloudy,Sunny/Clear,5,Poison,Ground,true
+10254,Oinkologne,female,1424,1781,Partly Cloudy,None,5,Normal,None,true
+10255,Dudunsparce,three-segment,1565,1957,Partly Cloudy,None,5,Normal,None,true
+10256,Palafin,hero,2265,2831,Rainy,None,5,Water,None,true
+10257,Maushold,family-of-three,1134,1418,Partly Cloudy,None,5,Normal,None,true
+10258,Tatsugiri,droopy,1569,1962,Windy,Rainy,5,Dragon,Water,true
+10259,Tatsugiri,stretchy,1569,1962,Windy,Rainy,5,Dragon,Water,true
+10260,Squawkabilly,blue-plumage,1127,1409,Partly Cloudy,Windy,5,Normal,Flying,true
+10261,Squawkabilly,yellow-plumage,1127,1409,Partly Cloudy,Windy,5,Normal,Flying,true
+10262,Squawkabilly,white-plumage,1127,1409,Partly Cloudy,Windy,5,Normal,Flying,true
+10263,Gimmighoul,roaming,631,788,Fog,None,5,Ghost,None,true
+10264,Koraidon,limited-build,2270,2837,Cloudy,Windy,5,Fighting,Dragon,true
+10265,Koraidon,sprinting-build,2270,2837,Cloudy,Windy,5,Fighting,Dragon,true
+10266,Koraidon,swimming-build,2270,2837,Cloudy,Windy,5,Fighting,Dragon,true
+10267,Koraidon,gliding-build,2270,2837,Cloudy,Windy,5,Fighting,Dragon,true
+10268,Miraidon,low-power-mode,2270,2837,Rainy,Windy,5,Electric,Dragon,true
+10269,Miraidon,drive-mode,2270,2837,Rainy,Windy,5,Electric,Dragon,true
+10270,Miraidon,aquatic-mode,2270,2837,Rainy,Windy,5,Electric,Dragon,true
+10271,Miraidon,glide-mode,2270,2837,Rainy,Windy,5,Electric,Dragon,true
+10272,Ursaluna,bloodmoon,2125,2657,Sunny/Clear,Partly Cloudy,5,Ground,Normal,true
+10273,Ogerpon,wellspring-mask,1900,2375,Sunny/Clear,Rainy,5,Grass,Water,true
+10274,Ogerpon,hearthflame-mask,1900,2375,Sunny/Clear,None,5,Grass,Fire,true
+10275,Ogerpon,cornerstone-mask,1900,2375,Sunny/Clear,Partly Cloudy,5,Grass,Rock,true
+10276,Terapagos,terastal,1903,2379,Partly Cloudy,None,5,Normal,None,true
+10277,Terapagos,stellar,2352,2941,Partly Cloudy,None,5,Normal,None,true
+10278,Clefable,mega,2156,2695,Cloudy,Windy,5,Fairy,Flying,true
+10279,Victreebel,mega,2003,2503,Sunny/Clear,Cloudy,5,Grass,Poison,true
+10281,Dragonite,mega,2304,2881,Windy,None,5,Dragon,Flying,true
+10282,Meganium,mega,1956,2446,Sunny/Clear,Cloudy,5,Grass,Fairy,true
+10283,Feraligatr,mega,2168,2710,Rainy,Windy,5,Water,Dragon,true
+10284,Skarmory,mega,2137,2672,Snow,Windy,5,Steel,Flying,true
+10285,Froslass,mega,2144,2681,Snow,Fog,5,Ice,Ghost,true
+10286,Emboar,mega,2092,2615,Sunny/Clear,Cloudy,5,Fire,Fighting,true
+10287,Excadrill,mega,2273,2841,Sunny/Clear,Snow,5,Ground,Steel,true
+10288,Scolipede,mega,2075,2594,Rainy,Cloudy,5,Bug,Poison,true
+10289,Scrafty,mega,2019,2524,Fog,Cloudy,5,Dark,Fighting,true
+10290,Eelektross,mega,2196,2746,Rainy,None,5,Electric,None,true
+10291,Chandelure,mega,2125,2656,Fog,Sunny/Clear,5,Ghost,Fire,true
+10292,Chesnaught,mega,1961,2451,Sunny/Clear,Cloudy,5,Grass,Fighting,true
+10293,Delphox,mega,2289,2862,Sunny/Clear,Windy,5,Fire,Psychic,true
+10294,Greninja,mega,2162,2703,Rainy,Fog,5,Water,Dark,true
+10295,Pyroar,mega,2199,2749,Sunny/Clear,Partly Cloudy,5,Fire,Normal,true
+10296,Floette,mega,2250,2813,Cloudy,None,5,Fairy,None,true
+10297,Malamar,mega,1796,2245,Fog,Windy,5,Dark,Psychic,true
+10298,Barbaracle,mega,2263,2829,Partly Cloudy,Cloudy,5,Rock,Fighting,true
+10299,Dragalge,mega,1999,2499,Cloudy,Windy,5,Poison,Dragon,true
+10300,Hawlucha,mega,2248,2811,Cloudy,Windy,5,Fighting,Flying,true
+10301,Zygarde,mega,3844,4805,Windy,Sunny/Clear,5,Dragon,Ground,true
+10302,Drampa,mega,2223,2779,Partly Cloudy,Windy,5,Normal,Dragon,true
+10303,Falinks,mega,2097,2621,Cloudy,None,5,Fighting,None,true
+10304,Raichu,mega-x,2006,2507,Rainy,None,5,Electric,None,true
+10305,Raichu,mega-y,2160,2700,Rainy,None,5,Electric,None,true
+10306,Chimecho,mega,2017,2521,Windy,Snow,5,Psychic,Steel,true
+10307,Absol,mega-z,2043,2554,Fog,None,5,Dark,Ghost,true
+10309,Garchomp,mega-z,2318,2898,Windy,None,5,Dragon,None,true
+10310,Lucario,mega-z,2037,2546,Cloudy,Snow,5,Fighting,Steel,true
+10311,Heatran,mega,2522,3153,Sunny/Clear,Snow,5,Fire,Steel,true
+10312,Darkrai,mega,2329,2911,Fog,None,5,Dark,None,true
+10313,Golurk,mega,1953,2441,Sunny/Clear,Fog,5,Ground,Ghost,true
+10314,Meowstic,mega,2213,2767,Windy,None,5,Psychic,None,true
+10315,Crabominable,mega,1939,2424,Cloudy,Snow,5,Fighting,Ice,true
+10316,Golisopod,mega,2004,2505,Rainy,Snow,5,Bug,Steel,true
+10317,Magearna,mega,2429,3037,Snow,Cloudy,5,Steel,Fairy,true
+10318,Magearna,original-mega,2429,3037,Snow,Cloudy,5,Steel,Fairy,true
+10319,Zeraora,mega,2328,2911,Rainy,None,5,Electric,None,true
+10320,Scovillain,mega,1884,2355,Sunny/Clear,None,5,Grass,Fire,true
+10321,Glimmora,mega,2063,2580,Partly Cloudy,Cloudy,5,Rock,Poison,true
+10322,Tatsugiri,curly-mega,2107,2634,Windy,Rainy,5,Dragon,Water,true
+10323,Tatsugiri,droopy-mega,2107,2634,Windy,Rainy,5,Dragon,Water,true
+10324,Tatsugiri,stretchy-mega,2107,2634,Windy,Rainy,5,Dragon,Water,true
+10325,Baxcalibur,mega,2693,3367,Windy,Snow,5,Dragon,Ice,true
